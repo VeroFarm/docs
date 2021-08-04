@@ -6,6 +6,11 @@
 
 * [Vision](introduction/vision.md)
 * [Eco-System](introduction/eco-system.md)
+* [Roadmap](introduction/roadmap.md)
+* [Features](introduction/features/README.md)
+  * [Free to Play](introduction/features/free-to-play.md)
+  * [Play to Earn](introduction/features/play-to-earn.md)
+  * [Hold to Earn](introduction/features/hold-to-earn.md)
 * [Game Story](introduction/game-story.md)
 * [Collectives](introduction/collectives.md)
 * [Fairlaunch](introduction/fairlaunch/README.md)
