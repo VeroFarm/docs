@@ -19,6 +19,7 @@
 
 ## 🎮 Vero Farm Game Play
 
+* [Charater](vero-farm-game-play/charater.md)
 * [Casual](vero-farm-game-play/casual.md)
 * [Batle Monter](vero-farm-game-play/batle-monter.md)
 * [P2P Batle](vero-farm-game-play/p2p-batle.md)
