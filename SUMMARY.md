@@ -12,11 +12,11 @@
   * [Free to Play](introduction/features/free-to-play.md)
   * [Play to Earn](introduction/features/play-to-earn.md)
   * [Hold to Earn](introduction/features/hold-to-earn.md)
-* [Fairlaunch](introduction/fairlaunch/README.md)
-  * [Private Sales](introduction/fairlaunch/private-sales.md)
-  * [IDO](introduction/fairlaunch/ido.md)
-  * [Test on testnet](introduction/fairlaunch/test-on-testnet.md)
-  * [Lock LP on DXSales](introduction/fairlaunch/lock-lp-on-dxsales.md)
+* [Transparent](introduction/transparent/README.md)
+  * [Private Sales](introduction/transparent/private-sales.md)
+  * [IDO](introduction/transparent/ido.md)
+  * [Test on testnet](introduction/transparent/test-on-testnet.md)
+  * [Lock LP on DXSales](introduction/transparent/lock-lp-on-dxsales.md)
 * [AUDIT](introduction/audit.md)
 
 ## 🎮 Vero Farm Game Play
