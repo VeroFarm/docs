@@ -19,8 +19,10 @@
 
 ## 🎮 Vero Farm Game Play
 
-* [Charater](vero-farm-game-play/charater.md)
-* [Untitled](vero-farm-game-play/untitled.md)
+* [Charater](vero-farm-game-play/charater/README.md)
+  * [Seeds](vero-farm-game-play/charater/untitled.md)
+  * [Plants](vero-farm-game-play/charater/plants.md)
+  * [Monters](vero-farm-game-play/charater/monters.md)
 * [Casual](vero-farm-game-play/casual.md)
 * [Batle Monter](vero-farm-game-play/batle-monter.md)
 * [P2P Batle](vero-farm-game-play/p2p-batle.md)
