@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Wellcome Vero Farm](README.md)
 
 ## 🥚 Introduction
 
@@ -24,8 +24,9 @@
   * [Plants](vero-farm-game-play/characters/plants.md)
   * [Monsters](vero-farm-game-play/characters/monters.md)
 * [Casual](vero-farm-game-play/casual.md)
-* [Batle Monter](vero-farm-game-play/batle-monter.md)
-* [P2P Batle](vero-farm-game-play/p2p-batle.md)
+* [Battling](vero-farm-game-play/battling/README.md)
+  * [Batle Monster](vero-farm-game-play/battling/batle-monster.md)
+  * [P2P Batle](vero-farm-game-play/battling/p2p-batle.md)
 * [Collectives](vero-farm-game-play/collectives.md)
 * [Training Seeds](vero-farm-game-play/training-seeds.md)
 * [Marketplace](vero-farm-game-play/marketplace.md)
