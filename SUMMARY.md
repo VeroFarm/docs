@@ -45,6 +45,7 @@
 
 * [UFIN](backed/ufin.md)
 * [Partners](backed/partners.md)
+* [Adviser](backed/adviser.md)
 
 ## 🧾SOCIALS
 
