@@ -40,6 +40,7 @@
 ## 🏦Backed
 
 * [UFIN](backed/ufin.md)
+* [Partners](backed/partners.md)
 
 ## 👐🏻Social
 
