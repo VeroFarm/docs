@@ -8,6 +8,8 @@
 * [Eco-System](introduction/eco-system.md)
 * [Game Story](introduction/game-story.md)
 * [Collectives](introduction/collectives.md)
+* [Fairlaunch](introduction/fairlaunch.md)
+* [AUDIT](introduction/audit.md)
 
 ## 🎮 Vero Farm Game Play
 
