@@ -17,7 +17,9 @@
   * [IDO](introduction/transparent/ido.md)
   * [Test on testnet](introduction/transparent/test-on-testnet.md)
   * [Lock LP on DXSales](introduction/transparent/lock-lp-on-dxsales.md)
-* [AUDIT](introduction/audit.md)
+* [Security Project](introduction/security-project/README.md)
+  * [Techrate Audits](introduction/security-project/audit.md)
+  * [UFIN Audits](introduction/security-project/ufin-audits.md)
 
 ## 🎮 Vero Farm Game Play
 
