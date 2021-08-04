@@ -46,7 +46,7 @@
 * [UFIN](backed/ufin.md)
 * [Partners](backed/partners.md)
 
-## 👐🏻Social
+## 🧾SOCIALS
 
-* [Untitled](social/untitled.md)
+* [Untitled](socials/untitled.md)
 
