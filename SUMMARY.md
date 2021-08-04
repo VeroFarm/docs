@@ -5,7 +5,6 @@
 ## 🎗 Introduction
 
 * [Vision](introduction/vision.md)
-* [Game Story](introduction/game-story.md)
 * [Eco-System](introduction/eco-system.md)
 * [Roadmap](introduction/roadmap.md)
 * [Features](introduction/features/README.md)
