@@ -15,6 +15,8 @@
 * [Fairlaunch](introduction/fairlaunch/README.md)
   * [Private Sales](introduction/fairlaunch/private-sales.md)
   * [IDO](introduction/fairlaunch/ido.md)
+  * [Test on testnet](introduction/fairlaunch/test-on-testnet.md)
+  * [Lock LP on DXSales](introduction/fairlaunch/lock-lp-on-dxsales.md)
 * [AUDIT](introduction/audit.md)
 
 ## 🎮 Vero Farm Game Play
