@@ -31,7 +31,7 @@
   * [Batle Monster](vero-farm-game-play/battling/batle-monster.md)
   * [P2P Batle](vero-farm-game-play/battling/p2p-batle.md)
 * [Collectives](vero-farm-game-play/collectives.md)
-* [Training Seeds](vero-farm-game-play/training-seeds.md)
+* [Training](vero-farm-game-play/training.md)
 * [Marketplace](vero-farm-game-play/marketplace.md)
 * [Land](vero-farm-game-play/land.md)
 
