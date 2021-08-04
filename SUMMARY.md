@@ -17,7 +17,7 @@
   * [IDO](introduction/transparent/ido.md)
   * [Lock LP on DXSales](introduction/transparent/lock-lp-on-dxsales.md)
   * [Test on testnet](introduction/transparent/test-on-testnet.md)
-* [Security Project](introduction/security-project/README.md)
+* [🛡Security Project](introduction/security-project/README.md)
   * [Techrate Audits](introduction/security-project/audit.md)
   * [UFIN Audits](introduction/security-project/ufin-audits.md)
 
