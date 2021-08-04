@@ -36,11 +36,11 @@
 * [Token Info](tokenomics/token-info.md)
 * [Token Allocation](tokenomics/token-allocation.md)
 
-## Backed
+## 🏦Backed
 
 * [UFIN](backed/ufin.md)
 
-## Social
+## 👐🏻Social
 
 * [Untitled](social/untitled.md)
 
