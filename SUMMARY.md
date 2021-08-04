@@ -21,4 +21,9 @@
 ## 🧩 Tokenomics
 
 * [Token Info](tokenomics/token-info.md)
+* [Token Allocation](tokenomics/token-allocation.md)
+
+## Backed
+
+* [UFIN](backed/ufin.md)
 
