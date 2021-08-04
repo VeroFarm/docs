@@ -2,7 +2,7 @@
 
 * [Wellcome Vero Farm](README.md)
 
-## 🥚 Introduction
+## 🎗 Introduction
 
 * [Vision](introduction/vision.md)
 * [Game Story](introduction/game-story.md)
@@ -49,4 +49,8 @@
 ## 🧾SOCIALS
 
 * [Untitled](socials/untitled.md)
+
+## 📈MEDIA & PR
+
+* [Untitled](media-and-pr/untitled.md)
 
