@@ -20,6 +20,7 @@
   * [Techrate Audits](introduction/security-project/audit.md)
   * [UFIN Audits](introduction/security-project/ufin-audits.md)
 * [Airdrops](introduction/airdrops.md)
+* [Hackathon](introduction/hackathon.md)
 
 ## 🎮 Vero Farm Game Play
 
