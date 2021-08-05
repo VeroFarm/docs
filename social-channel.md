@@ -11,6 +11,7 @@
 | Reddit | [https://www.reddit.com/user/VeroFarm](https://www.reddit.com/user/VeroFarm) |
 | Linkedin | [https://www.linkedin.com/company/79776680/admin/](https://www.linkedin.com/company/79776680/admin/) |
 | Pinterest | [https://www.pinterest.com/verofarmofficial](https://www.pinterest.com/verofarmofficial) |
+| Tiktok | [tiktok.com/@vero.farm](https://tiktok.com/@vero.farm) |
 | Github | [https://github.com/verofarm](https://github.com/verofarm) |
 | Youtube | [https://www.youtube.com/channel/UCx2qltqWmYts60KGC4Xxkyg](https://www.youtube.com/channel/UCx2qltqWmYts60KGC4Xxkyg) |
 
