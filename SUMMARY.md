@@ -30,7 +30,7 @@
   * [Monsters](vero-farm-game-play/characters/monters.md)
 * [Casual](vero-farm-game-play/casual.md)
 * [Battling](vero-farm-game-play/battling/README.md)
-  * [Batle Monster](vero-farm-game-play/battling/batle-monster.md)
+  * [Battle Monster](vero-farm-game-play/battling/battle-monster.md)
   * [P2P Batle](vero-farm-game-play/battling/p2p-batle.md)
 * [Collectives](vero-farm-game-play/collectives.md)
 * [Training](vero-farm-game-play/training.md)
