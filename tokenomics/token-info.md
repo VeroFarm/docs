@@ -1,5 +1,5 @@
 ---
-description: VERO FARM Information
+description: VERO TOKEN Information
 ---
 
 # Token Information
