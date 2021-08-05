@@ -41,6 +41,8 @@
 
 * [Token Information](tokenomics/token-info.md)
 * [Token Allocation](tokenomics/token-allocation.md)
+* [Wallets](tokenomics/wallets.md)
+* [Exchanges](tokenomics/exchanges.md)
 
 ## 🏦Backed
 
