@@ -1,5 +1,5 @@
 ---
-description: Vero Fantasy land
+description: Vero Fantasy Lands
 ---
 
 # Lands
