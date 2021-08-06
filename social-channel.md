@@ -4,7 +4,7 @@
 | :--- | :--- |
 | Telegram | [https://t.me/VeroFarm](https://t.me/VeroFarm) |
 | Telegram Group | [https://t.me/VeroFarmGroup](https://t.me/VeroFarmGroup) |
-| Facebook | [https://www.facebook.com/Vero.Farm.official](https://www.facebook.com/Vero.Farm.official) |
+| Facebook | [https://www.facebook.com/VeroFarmGames](https://www.facebook.com/VeroFarmGames) |
 | Twitter | [https://twitter.com/VeroFarmGames](https://twitter.com/VeroFarmGames) |
 | Instagram | [https://www.instagram.com/VeroFarm.Games/](https://www.instagram.com/VeroFarm.Games/) |
 | Discord Group | [https://discord.com/channels/872066519008411699/872066519008411701](https://discord.com/channels/872066519008411699/872066519008411701) |
