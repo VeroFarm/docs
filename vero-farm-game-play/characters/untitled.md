@@ -1,2 +1,2 @@
-# Seeds
+# Magic seeds
 

@@ -25,8 +25,8 @@
 ## 🎮 Vero Farm Game Play
 
 * [Characters](vero-farm-game-play/characters/README.md)
-  * [Seeds](vero-farm-game-play/characters/untitled.md)
-  * [Plants](vero-farm-game-play/characters/plants.md)
+  * [Magic seeds](vero-farm-game-play/characters/untitled.md)
+  * [Vero's Angel](vero-farm-game-play/characters/plants.md)
   * [Monsters](vero-farm-game-play/characters/monters.md)
 * [Casual](vero-farm-game-play/casual.md)
 * [Battling](vero-farm-game-play/battling/README.md)
