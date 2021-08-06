@@ -58,7 +58,3 @@
 
 * [Untitled](media-and-pr/untitled.md)
 
----
-
-* [Social Channel](social-channel.md)
-
