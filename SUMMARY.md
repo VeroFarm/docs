@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Wellcome Vero Farm](README.md)
+* [Welcome VeroFarm!](README.md)
 
 ## 🎗 Introduction
 

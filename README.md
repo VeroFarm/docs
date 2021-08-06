@@ -2,5 +2,5 @@
 description: Vero Farm
 ---
 
-# Wellcome Vero Farm
+# Welcome VeroFarm!
 
