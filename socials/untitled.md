@@ -48,6 +48,16 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Medium</td>
+      <td style="text-align:left"><a href="https://medium.com/@verofarm">https://medium.com/@verofarm</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Tumbl</td>
+      <td style="text-align:left"><a href="https://verofarm.tumblr.com/">https://verofarm.tumblr.com/</a>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">Linkedin</td>
       <td style="text-align:left"><a href="https://www.linkedin.com/company/79776680/admin/">https://www.linkedin.com/company/79776680/admin/</a>
       </td>
