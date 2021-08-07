@@ -44,12 +44,12 @@
     </tr>
     <tr>
       <td style="text-align:left">Reddit</td>
-      <td style="text-align:left"><a href="https://www.reddit.com/user/VeroFarm">https://www.reddit.com/user/VeroFarm</a>
+      <td style="text-align:left"><a href="https://www.reddit.com/r/VeroFarm/">https://www.reddit.com/r/VeroFarm/</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Medium</td>
-      <td style="text-align:left"><a href="https://medium.com/@verofarm">https://medium.com/@verofarm</a>
+      <td style="text-align:left"><a href="https://verofarm.medium.com/">https://verofarm.medium.com/</a>
       </td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Linkedin</td>
-      <td style="text-align:left"><a href="https://www.linkedin.com/company/79776680/admin/">https://www.linkedin.com/company/79776680/admin/</a>
+      <td style="text-align:left"><a href="https://www.linkedin.com/company/verofarm/">https://www.linkedin.com/company/verofarm/</a>
       </td>
     </tr>
     <tr>
