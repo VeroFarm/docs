@@ -10,5 +10,5 @@ Total Supply: 100.000.000.000 VERO
 * 5% for Teams
 * 3% NFT Marketplace
 
-![Vero Token Allocations](../.gitbook/assets/statistical-tables1.png)
+![](../.gitbook/assets/tokenomics.png)
 
