@@ -7,5 +7,3 @@ description: >-
 
 # Welcome VeroFarm!
 
-![Vero Farm- Let&apos;s Explore The Magical Farm!](.gitbook/assets/banner.jpg)
-
