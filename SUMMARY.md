@@ -45,6 +45,7 @@
 * [Token Allocation](tokenomics/token-allocation.md)
 * [Wallets](tokenomics/wallets.md)
 * [Exchanges](tokenomics/exchanges.md)
+* [Test Tokens](tokenomics/test-tokens.md)
 
 ## 🏦Backed
 
