@@ -1,4 +1,11 @@
+---
+description: The Biggest Farm Game on Blockchain
+---
+
 # Vision
 
-Building a Platform of digital asset collection based on blockchain technology, turning everyday life into a game based on NFT and blockchain, helping players satisfy relaxing entertainment activities, or earning money. Collect valuable collections, go on adventures in a simple and creative way.
+Vero Farm is a game which is built for everyone and uses Blockchain technology to connect millions of people around the world. Anyone can easily own a farm with many collections of seeds, pets, land and in-game items. In the large farm, there are many different Vero angels waiting for users to explore and harvest.
+
+Vero Farm will be the revolution in gaming with concept Play to Earn ! Earning VERO tokens by playing and using them to decide the future of the game.  
+****
 
