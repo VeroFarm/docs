@@ -48,6 +48,7 @@
 * [Exchanges](tokenomics/exchanges.md)
 * [Test Tokens](tokenomics/test-tokens.md)
 * [Pools](tokenomics/pools.md)
+* [Hold to Earn](tokenomics/hold-to-earn.md)
 
 ## 🏦Backed
 
