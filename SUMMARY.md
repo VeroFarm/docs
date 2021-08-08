@@ -6,7 +6,9 @@
 
 * [Vision](introduction/vision.md)
 * [Eco-System](introduction/eco-system.md)
-* [Roadmap](introduction/roadmap.md)
+* [Roadmap](introduction/roadmap/README.md)
+  * [Testnets](introduction/roadmap/testnets.md)
+  * [Mainnets](introduction/roadmap/mainnets.md)
 * [Features](introduction/features/README.md)
   * [Free to Play](introduction/features/free-to-play.md)
   * [Play to Earn](introduction/features/play-to-earn.md)
