@@ -1,5 +1,0 @@
-# Testnets
-
-Tesnet token  
-
-
