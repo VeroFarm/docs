@@ -47,6 +47,7 @@
 * [Wallets](tokenomics/wallets.md)
 * [Exchanges](tokenomics/exchanges.md)
 * [Test Tokens](tokenomics/test-tokens.md)
+* [Pools](tokenomics/pools.md)
 
 ## 🏦Backed
 
