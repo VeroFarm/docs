@@ -67,7 +67,15 @@
 
 ## FAQ
 
-* [Basic](faq/untitled.md)
-* [Gameplay](faq/gameplay.md)
-* [Economy](faq/economy.md)
+## FAQ <a id="faq-1"></a>
+
+* [Basic](faq-1/basic.md)
+* [Basic](faq-1/untitled.md)
+
+---
+
+* [Gameplay](gameplay/README.md)
+  * [Gameplay](gameplay/gameplay.md)
+* [Economy](economy/README.md)
+  * [Economy](economy/economy.md)
 
