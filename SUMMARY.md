@@ -28,10 +28,11 @@
 
 ## 🎮 Vero Farm Game Play
 
-* [Characters](vero-farm-game-play/characters/README.md)
-  * [Magic seeds](vero-farm-game-play/characters/untitled.md)
-  * [Vero's Angel](vero-farm-game-play/characters/plants.md)
-  * [Monsters](vero-farm-game-play/characters/monters.md)
+* [NFTs Collections](vero-farm-game-play/nfts-collections/README.md)
+  * [Magic seeds](vero-farm-game-play/nfts-collections/untitled.md)
+  * [Vero's Angel](vero-farm-game-play/nfts-collections/plants.md)
+  * [Monsters](vero-farm-game-play/nfts-collections/monters.md)
+  * [Farm Items](vero-farm-game-play/nfts-collections/farm-items.md)
 * [Casual](vero-farm-game-play/casual.md)
 * [Battling](vero-farm-game-play/battling/README.md)
   * [Battle Monster](vero-farm-game-play/battling/battle-monster.md)
