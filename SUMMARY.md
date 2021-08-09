@@ -76,5 +76,9 @@
 ---
 
 * [Gameplay](gameplay.md)
+* [1.How to develop the Farm ?](1.-how-to-develop-the-farm.md)
+* [2. How to know which kind of Vero seeds and angels is good?](2.-how-to-know-which-kind-of-vero-seeds-and-angels-is-good.md)
+* [3. How to start matches and receive rewards?](3.-how-to-start-matches-and-receive-rewards.md)
+* [4. What are Vero Farm's land lots?](4.-what-are-vero-farms-land-lots.md)
 * [Economy](economy.md)
 
