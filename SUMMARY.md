@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome VeroFarm!](README.md)
-* [Untitled](untitled.md)
 
 ## 🎗 Introduction
 
