@@ -20,6 +20,31 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Telegram Group</td>
+      <td style="text-align:left"><a href="https://t.me/VeroFarmVN">https://t.me/VeroFarmVN</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Telegram Group</td>
+      <td style="text-align:left"><a href="https://t.me/VeroFarmKorea">https://t.me/VeroFarmKorea</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Telegram Group</td>
+      <td style="text-align:left"><a href="https://t.me/VeroFarmIndia">https://t.me/VeroFarmIndia</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Telegram Group</td>
+      <td style="text-align:left"><a href="https://t.me/VeroFarmChina">https://t.me/VeroFarmChina</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Telegram Group</td>
+      <td style="text-align:left"><a href="https://t.me/VeroFarmPhilippines">https://t.me/VeroFarmPhilippines</a>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">Facebook</td>
       <td style="text-align:left"><a href="https://www.facebook.com/VeroFarmGames">https://www.facebook.com/VeroFarmGames</a>
       </td>
