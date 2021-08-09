@@ -67,11 +67,11 @@
 
 ## FAQ
 
-* [Basic](faq/untitled.md)
-* [1.What is Vero Farm ?](faq/1.what-is-vero-farm.md)
-* [2. How do I get started & download Vero Farm ?](faq/2.-how-do-i-get-started-and-download-vero-farm.md)
-* [3. How do I get a Vero ?](faq/3.-how-do-i-get-a-vero.md)
-* [4.I need help](faq/4.-i-need-help.md)
+* [Basic](faq/untitled/README.md)
+  * [1.What is Vero Farm ?](faq/untitled/1.what-is-vero-farm.md)
+  * [2. How do I get started & download Vero Farm ?](faq/untitled/2.-how-do-i-get-started-and-download-vero-farm.md)
+  * [3. How do I get a Vero ?](faq/untitled/3.-how-do-i-get-a-vero.md)
+  * [4.I need help](faq/untitled/4.-i-need-help.md)
 
 ---
 
