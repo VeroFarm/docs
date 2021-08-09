@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome VeroFarm!](README.md)
+* [Untitled](untitled.md)
 
 ## 🎗 Introduction
 
@@ -66,5 +67,7 @@
 
 ## FAQ
 
-* [Untitled](faq/untitled.md)
+* [Basic](faq/untitled.md)
+* [Gameplay](faq/gameplay.md)
+* [Economy](faq/economy.md)
 
