@@ -68,7 +68,9 @@
 ## FAQ
 
 * [Basic](faq/untitled.md)
-* [Untitled](faq/untitled-1.md)
+* [1.What is Vero Farm ?](faq/1.what-is-vero-farm.md)
+* [2. How do I get started & download Vero Farm ?](faq/2.-how-do-i-get-started-and-download-vero-farm.md)
+* [3. How do I get a Vero ?](faq/3.-how-do-i-get-a-vero.md)
 
 ---
 
