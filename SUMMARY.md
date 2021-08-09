@@ -65,10 +65,10 @@
 
 * [Untitled](media-and-pr/untitled.md)
 
-## FAQ <a id="faq-1"></a>
+## FAQ
 
-* [Basic](faq-1/basic.md)
-* [Basic](faq-1/untitled.md)
+* [Basic](faq/basic.md)
+* [Basic](faq/untitled.md)
 
 ---
 
