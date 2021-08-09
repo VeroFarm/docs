@@ -1,12 +1,6 @@
 # Press Releases
 
-## Can I become who I want to be?
-
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
 
 
+![](https://lh5.googleusercontent.com/duU1WcYKfK5N70Uf6YH-AL7STok0AgsOKGti5qHAk4UmjnQ9pzF7vhxeC3VtUgkrCBa5LMn8Tabw3Of1LllpCGOsWcu0PEJ-ST0jTcFm_p03ZEQUAAs-hLrU7w3vsMa-vMoWJls)
 
