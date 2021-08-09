@@ -67,13 +67,11 @@
 
 ## FAQ
 
-* [Basic](faq/basic.md)
 * [Basic](faq/untitled.md)
+* [Untitled](faq/untitled-1.md)
 
 ---
 
-* [Gameplay](gameplay/README.md)
-  * [Gameplay](gameplay/gameplay.md)
-* [Economy](economy/README.md)
-  * [Economy](economy/economy.md)
+* [Gameplay](gameplay.md)
+* [Economy](economy.md)
 
