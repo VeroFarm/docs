@@ -64,7 +64,7 @@
 
 ## 📈MEDIA & PR
 
-* [Untitled](media-and-pr/untitled.md)
+* [Press Releases](media-and-pr/press-releases.md)
 
 ## FAQ
 
