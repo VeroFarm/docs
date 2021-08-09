@@ -82,4 +82,11 @@
 * [4. What are Vero Farm's land lots?](4.-what-are-vero-farms-land-lots.md)
 * [Economy](economy.md)
 * [1.What is $VERO?](1.what-is-usdvero.md)
+* [2. Origin of the Vero Angels?](2.-origin-of-the-vero-angels-1.md)
+* [3. What is the rare Vero Angel?](3.-what-is-the-rare-vero-angel.md)
+* [4. What does Play To Earn & Hold To Earn bring for?](4.-what-does-play-to-earn-and-hold-to-earn-bring-for.md)
+* [Community & Vision](community-and-vision.md)
+* [1. Where can I interact and meet other members?](1.-where-can-i-interact-and-meet-other-members.md)
+* [2. Who created these beautiful Vero angels?](2.-who-created-these-beautiful-vero-angels.md)
+* [3. Why is Vero Farm special?](3.-why-is-vero-farm-special.md)
 
