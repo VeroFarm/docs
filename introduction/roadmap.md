@@ -1,5 +1,7 @@
 # Roadmap
 
+For making a perfect product, we conduct multiple alpha beta testing stages before releasing the product version, and the team will continue completing the game's features through many upcoming versions. This is our expected roadmap, this roadmap may have a certain difference with reality due to objective factors, however, we will try to respond as quickly as possible to users.
+
 **Q2 :**
 
 * R&D ideas for Blockchain games
