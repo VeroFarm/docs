@@ -11,5 +11,5 @@ description: VERO TOKEN Information
 | Symbol | VERO |
 | Network | Binance Smartchain |
 | Decimal | 6 |
-| Scan |  |
+| Scan | will update |
 
