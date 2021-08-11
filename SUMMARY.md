@@ -63,6 +63,7 @@
 ## 📈MEDIA & PR
 
 * [Press Releases](media-and-pr/press-releases.md)
+* [List Media&Pr](media-and-pr/list-media-and-pr.md)
 
 ## FAQ
 

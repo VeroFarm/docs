@@ -3,7 +3,8 @@
 Casual Game  
 Battle Games
 
-NFT Marketplace
+NFT Marketplace  
+Shop NFT
 
 
 
