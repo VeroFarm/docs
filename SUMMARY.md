@@ -13,6 +13,7 @@
   * [Play to Earn](introduction/features/play-to-earn.md)
   * [Hold to Earn](introduction/features/hold-to-earn.md)
 * [Transparent](introduction/transparent/README.md)
+  * [Seed Round](introduction/transparent/seed-round.md)
   * [Private Sales](introduction/transparent/private-sales.md)
   * [IDO Whitelists](introduction/transparent/ido-whitelists.md)
   * [IDO](introduction/transparent/ido.md)
