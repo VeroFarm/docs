@@ -36,7 +36,7 @@
 * [Casual](vero-farm-game-play/casual.md)
 * [Battling](vero-farm-game-play/battling/README.md)
   * [Battle Monster](vero-farm-game-play/battling/battle-monster.md)
-  * [P2P Batle](vero-farm-game-play/battling/p2p-batle.md)
+  * [PVP Batle](vero-farm-game-play/battling/p2p-batle.md)
 * [Collectives](vero-farm-game-play/collectives.md)
 * [Training](vero-farm-game-play/training.md)
 * [NFT Marketplaces](vero-farm-game-play/nftmarketplaces.md)
@@ -49,8 +49,13 @@
 * [Wallets](tokenomics/wallets.md)
 * [Exchanges](tokenomics/exchanges.md)
 * [Test Tokens](tokenomics/test-tokens.md)
-* [Pools](tokenomics/pools.md)
 * [Tokenomics](tokenomics/tokenomics.md)
+
+## 🌿NFT Farm Pool
+
+* [Token Farm](nft-farm-pool/token-farm.md)
+* [Ticket Farm](nft-farm-pool/ticket-farm.md)
+* [NFT Farm](nft-farm-pool/nft-farm.md)
 
 ## 🏦Backed
 
