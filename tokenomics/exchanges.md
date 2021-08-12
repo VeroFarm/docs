@@ -1,12 +1,20 @@
 ---
-description: Vero Support on PankageSwap- and you can trade on some exchange support
+description: $Vero Support on PankageSwap- and you can trade on some exchange support
 ---
 
 # Exchanges
 
-![PankageSwap](../.gitbook/assets/pancakeswap.png)
+{% tabs %}
+{% tab title="PancakeSwap" %}
+![](../.gitbook/assets/pancakeswap.png)
+{% endtab %}
 
-![Dex.Guru](../.gitbook/assets/dexguru.png)
+{% tab title="Dex.Guru" %}
+![](../.gitbook/assets/dexguru.png)
+{% endtab %}
 
-![PooCoin](../.gitbook/assets/poocoin.png)
+{% tab title="PooCoin" %}
+![](../.gitbook/assets/poocoin.png)
+{% endtab %}
+{% endtabs %}
 
