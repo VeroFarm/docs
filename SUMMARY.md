@@ -28,6 +28,7 @@
 ## 🎮 Vero Farm Game Play
 
 * [NFTs Collections](vero-farm-game-play/nfts-collections/README.md)
+  * [Classical Elements](vero-farm-game-play/nfts-collections/classical-elements.md)
   * [Magic seeds](vero-farm-game-play/nfts-collections/untitled.md)
   * [Vero's Angel](vero-farm-game-play/nfts-collections/plants.md)
   * [Monsters](vero-farm-game-play/nfts-collections/monters.md)
