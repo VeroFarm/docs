@@ -1,6 +1,6 @@
 # Magic seeds
 
-| Seeds | Name | Details |
+| Elements | Name | Details |
 | :--- | :--- | :--- |
 |  |  |  |
 |  |  |  |
