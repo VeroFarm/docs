@@ -19,7 +19,15 @@ description: >-
 
 ### LEVEL OF MAGIC SEEDS
 
-![Magic Seed](../../.gitbook/assets/seeds.png)
+#### \#Nomal
+
+![Nomal Magic Seed](../../.gitbook/assets/seeds.png)
+
+#### \#Advanced
+
+
+
+#### \#Legend
 
 
 
