@@ -5,8 +5,8 @@
 |  |  |  |
 |  |  |  |
 |  |  |  |
-|  |  |  |
-|  |  |  |
+| AER \( |  |  |
+| Random |  |  |
 
 ![Magic Seed](../../.gitbook/assets/seeds.png)
 
