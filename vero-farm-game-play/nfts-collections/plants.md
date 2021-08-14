@@ -6,7 +6,7 @@ description: >-
 
 # Vero's Angel
 
-| Attribute |  |
+| Attribute | Details |
 | :--- | :--- |
 | Nomal |  |
 | Advanced |  |
