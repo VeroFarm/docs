@@ -9,13 +9,67 @@ description: >-
 
 ### DETAIL MAGIC SEEDS
 
-| Elements | Name | Details |
-| :--- | :--- | :--- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| AER \( |  |  |
-| Random |  |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Elements</th>
+      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>Kano</b>
+      </td>
+      <td style="text-align:left"><em><b>Wind seeds represent sunflowers. The wind is the movement of air, and it can help plants angel move smoothly and flexibly.</b></em>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>Ono</b>
+      </td>
+      <td style="text-align:left"><em><b>Soil is the magical mother of all matter. Soil is the source of matter, wealth, abundance, the beauty that makes trees sprout. So the soil seed represents the garlic plant</b></em>
+        <br
+        />
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>Taka</b>
+      </td>
+      <td style="text-align:left"><em><b>Fire represents the cactus. It symbolizes temper and is also a symbol of strength and willpower</b></em>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>Sake</b>
+      </td>
+      <td style="text-align:left">
+        <p><em><b>Water represents cabbage. It expresses ease, lightness </b></em>
+        </p>
+        <p><em><b>and fluency</b></em>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>Nozomi</b>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">AER (</td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Random</td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
 **ATTRIBUTE**
 
