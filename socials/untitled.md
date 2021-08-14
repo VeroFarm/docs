@@ -41,8 +41,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Telegram Group</td>
-      <td style="text-align:left"><a href="https://t.me/VeroFarmPhilippines">https://t.me/VeroFarmPhilippines</a>
-      </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Facebook</td>
