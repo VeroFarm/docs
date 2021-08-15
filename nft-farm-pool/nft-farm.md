@@ -1,5 +1,5 @@
 ---
-description: Stake NFT to Ern Token
+description: Stake NFT to Earn Vero Token
 ---
 
 # NFT Farm
