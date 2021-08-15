@@ -48,7 +48,6 @@
 * [Wallets](tokenomics/wallets.md)
 * [Exchanges](tokenomics/exchanges.md)
 * [Test Tokens](tokenomics/test-tokens.md)
-* [Tokenomics](tokenomics/tokenomics.md)
 
 ## 🌿NFT Farm Pool
 
