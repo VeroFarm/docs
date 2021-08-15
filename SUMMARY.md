@@ -5,7 +5,6 @@
 ## 🎗 Introduction
 
 * [Vision](introduction/vision.md)
-* [Eco-System](introduction/eco-system.md)
 * [Products](introduction/products.md)
 * [Roadmap](introduction/roadmap.md)
 * [Features](introduction/features/README.md)
