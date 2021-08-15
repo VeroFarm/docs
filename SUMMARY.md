@@ -93,10 +93,6 @@
   * [2. Who created these beautiful Vero angels?](faq/community-and-vision/2.-who-created-these-beautiful-vero-angels.md)
   * [3. Why is Vero Farm special?](faq/community-and-vision/3.-why-is-vero-farm-special.md)
 
----
-
-* [RECRUITMENT](recruitment.md)
-
 ## RECRUITMENT <a id="recruitment-1"></a>
 
 * [Community manager](recruitment-1/community-manager.md)
