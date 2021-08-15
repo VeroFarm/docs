@@ -97,3 +97,7 @@
 
 * [RECRUITMENT](recruitment.md)
 
+## RECRUITMENT <a id="recruitment-1"></a>
+
+* [Community manager](recruitment-1/community-manager.md)
+
