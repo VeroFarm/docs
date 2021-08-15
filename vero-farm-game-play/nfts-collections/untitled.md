@@ -19,7 +19,7 @@ description: >-
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">AER</td>
       <td style="text-align:left"><b>Kano</b>
       </td>
       <td style="text-align:left">Wind seeds represent sunflowers. The wind is the movement of air, and
@@ -52,19 +52,9 @@ description: >-
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Random</td>
       <td style="text-align:left"><b>Nozomi</b>
       </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">AER (</td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Random</td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
