@@ -1,4 +1,4 @@
-# Partners
+# Update
 
 ![](../.gitbook/assets/partner.png)
 
