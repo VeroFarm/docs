@@ -57,7 +57,7 @@
 ## 🏦Backed
 
 * [UFIN](backed/ufin.md)
-* [Update](backed/update.md)
+* [Partners](backed/partners.md)
 
 ## 🧾SOCIALS
 
@@ -66,7 +66,7 @@
 ## 📈MEDIA & PR
 
 * [Press Releases](media-and-pr/press-releases.md)
-* [List Media&Pr](media-and-pr/list-media-and-pr.md)
+* [List Media&PR](media-and-pr/list-media-and-pr.md)
 
 ## FAQ
 
