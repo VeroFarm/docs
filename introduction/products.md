@@ -1,5 +1,5 @@
 ---
-description: Updating..
+description: All NFT Dapps on Vero Farm Games
 ---
 
 # Products
