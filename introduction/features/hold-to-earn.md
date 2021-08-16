@@ -1,5 +1,5 @@
 ---
-description: Stak Vero Token and Earn reward
+description: Stake Vero Token and Earn reward
 ---
 
 # Hold to Earn
