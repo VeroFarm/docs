@@ -1,4 +1,6 @@
-# Lock LP on DXSales
+---
+description: LP Token will be Lock at DxSale
+---
 
-80% fund raised from IDO will be locked on DxSalesLP token will be locked in 12 months
+# Lock LP on DXSales
 
