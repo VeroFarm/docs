@@ -1,12 +1,14 @@
+---
+description: VERO FARM AIRDROP PROGRAM OFFICIAL LAUNCH !
+---
+
 # Airdrops
 
 ![](../.gitbook/assets/vero-airdrop.jpg)
 
- VERO FARM AIRDROP PROGRAM OFFICIAL LAUNCH !
-
  ![&#x1F381;](https://web.telegram.org/k/assets/img/emoji/1f381.png)On the occasion of the new launch in community,Vero Farm brings to you an amazing Airdrop program. 
 
-Reward: 
+**Reward**: 
 
 -Each member will receive a reward of 300 VERO tokens. 
 
@@ -28,7 +30,8 @@ Reward:
 
  ![&#x1F449;](https://web.telegram.org/k/assets/img/emoji/1f449.png)Telegram Group: [https://t.me/VeroFarmGroup](https://t.me/VeroFarmGroup)
 
- ![&#x1F449;](https://web.telegram.org/k/assets/img/emoji/1f449.png)Twitter: [https://twitter.com/VeroFarmGames/status/1426946124695281665](https://twitter.com/VeroFarmGames/status/1426946124695281665) ![&#x1F449;](https://web.telegram.org/k/assets/img/emoji/1f449.png)Facebook: [https://www.facebook.com/VeroFarmGames](https://www.facebook.com/VeroFarmGames)
+ ![&#x1F449;](https://web.telegram.org/k/assets/img/emoji/1f449.png)Twitter: [https://twitter.com/VeroFarmGames/status/1426946124695281665](https://twitter.com/VeroFarmGames/status/1426946124695281665)  
+ ![&#x1F449;](https://web.telegram.org/k/assets/img/emoji/1f449.png)Facebook: [https://www.facebook.com/VeroFarmGames](https://www.facebook.com/VeroFarmGames)
 
  ![&#x1F449;](https://web.telegram.org/k/assets/img/emoji/1f449.png)Reddit: [https://www.reddit.com/r/VeroFarmGame](https://www.reddit.com/r/VeroFarmGame)
 
