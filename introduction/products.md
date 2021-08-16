@@ -10,5 +10,5 @@ You can also participate in upgrading experience for cards by fighting through t
 
 Shop for seeds and boosters through the shop feature. 
 
-Or you can go to your partner's NftMarketplace to trade your owned assets with everyone in the world.
+Or you can go to your partner's NFT Marketplace to trade your owned assets with everyone in the world.
 
