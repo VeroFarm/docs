@@ -58,7 +58,6 @@
 
 * [UFIN](backed/ufin.md)
 * [Update](backed/update.md)
-* [Adviser](backed/adviser.md)
 
 ## 🧾SOCIALS
 
