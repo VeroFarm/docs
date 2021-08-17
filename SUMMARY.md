@@ -30,7 +30,7 @@
   * [Classical Elements](vero-farm-game-play/nfts-collections/classical-elements.md)
   * [Magic seeds](vero-farm-game-play/nfts-collections/magic-seeds.md)
   * [Vero's Angel](vero-farm-game-play/nfts-collections/plants.md)
-  * [Monsters](vero-farm-game-play/nfts-collections/monters.md)
+  * [Monsters](vero-farm-game-play/nfts-collections/monsters.md)
   * [Farm Items](vero-farm-game-play/nfts-collections/farm-items.md)
 * [Casual](vero-farm-game-play/casual.md)
 * [Battling](vero-farm-game-play/battling/README.md)
