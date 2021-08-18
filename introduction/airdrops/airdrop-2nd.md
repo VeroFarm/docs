@@ -1,10 +1,11 @@
 ---
-description: Airdrop On Telegram @Airdrop
+description: 'Airdrop On Telegram @Airdrop : https://t.me/VeroFarmAirdropBot'
 ---
 
 # Airdrop 2nd
 
-💧 Vero Farm @Airdrop 💧
+💧 Vero Farm @Airdrop 💧  
+[https://t.me/VeroFarmAirdropBot](https://t.me/VeroFarmAirdropBot)
 
 🏆 Task: ➕ Up to 300 VERO \(~$1.5\)
 
