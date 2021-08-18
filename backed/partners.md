@@ -1,6 +1,4 @@
----
-description: Update...
----
-
 # Partners
+
+![](../.gitbook/assets/our-partner.png)
 
