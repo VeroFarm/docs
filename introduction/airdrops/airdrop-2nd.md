@@ -14,7 +14,7 @@ description: Airdrop On Telegram @Airdrop
 
 💠 Join Vero Farm Telegram group & Telegram channel. \(Required » 75 VERO\) : [https://t.me/JLaunchPad](https://t.me/JLaunchPad)  & [https://t.me/JLaunchPadGroups](https://t.me/JLaunchPadGroups)  
 💠 Follow Vero Farm on Twitter and retweet the pinned post by tagging 3 of your friends. \(Required » 75 VERO\) : [https://twitter.com/UfinUk](https://twitter.com/UfinUk)   
-💠Subscribe to Vero Farm Reddit channel. \(Optional » 50 VERO\)   
+💠Subscribe to Vero Farm Reddit channel. \(Optional » 50 VERO\) : [https://www.reddit.com/r/VeroFarmGame](https://www.reddit.com/r/VeroFarmGame)  
 💠 You can perform other tasks on the bot. \(Optional » 100 VERO\)   
 💠 Enter your information to the airdrop bot.
 
