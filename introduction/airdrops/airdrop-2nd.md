@@ -1,4 +1,22 @@
+---
+description: Airdrop On Telegram @Airdrop
+---
+
 # Airdrop 2nd
+
+💧 Vero Farm @Airdrop 💧
+
+🏆 Task: ➕ Up to 300 VERO \(~$1.5\)
+
+👨‍👩‍👧 Referral: ➕ 10 VERO \(~$0.05\)
+
+🔛 Airdrop bot for Vero Farm 🔛
+
+💠 Join Vero Farm Telegram group & Telegram channel. \(Required » 75 VERO\) 💠 Follow Vero Farm on Twitter and retweet the pinned post by tagging 3 of your friends. \(Required » 75 VERO\) 💠Subscribe to Vero Farm Reddit channel. \(Optional » 50 VERO\) 💠 You can perform other tasks on the bot. \(Optional » 100 VERO\) 💠 Enter your information to the airdrop bot.
+
+🗞 Notes: Total airdrop pool is 3.000.000 \(~$15,000\)
+
+⏳ Distribution date: October 30, 2021.
 
 [https://twitter.com/UfinUk](https://twitter.com/UfinUk)   
 [https://t.me/JLaunchPad](https://t.me/JLaunchPad)   
