@@ -4,8 +4,18 @@ description: 'Airdrop On Telegram @Airdrop : https://t.me/VeroFarmAirdropBot'
 
 # Airdrop 2nd
 
-💧 Vero Farm @Airdrop 💧  
-[https://t.me/VeroFarmAirdropBot](https://t.me/VeroFarmAirdropBot)
+📣 Vero Farm Airdrop is live!
+
+🏆 Reward for Tasks: Up to 300 VERO \(~$1.5\)
+
+👨‍👩‍👧 Referral Reward: 10 VERO \(~$0.05\)
+
+👉 [http://t.me/VeroFarmAirdropBot](http://t.me/VeroFarmAirdropBot) 👈
+
+Airdrop \#Bitcoin \#Ethereum \#Crypto \#crypto \#VeroFarm \#VERO \#Airdropstario  
+💧 Vero Farm @Airdrop 💧
+
+##  [https://t.me/VeroFarmAirdropBot](https://t.me/VeroFarmAirdropBot)
 
 🏆 Task: ➕ Up to 300 VERO \(~$1.5\)
 
