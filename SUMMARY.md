@@ -21,7 +21,9 @@
 * [Security Project🛡](introduction/security-project/README.md)
   * [Techrate Audits](introduction/security-project/audit.md)
   * [UFIN Audits](introduction/security-project/ufin-audits.md)
-* [Airdrops](introduction/airdrops.md)
+* [Airdrops](introduction/airdrops/README.md)
+  * [Airdrop 1st](introduction/airdrops/airdrop-1st.md)
+  * [Airdrop 2nd](introduction/airdrops/airdrop-2nd.md)
 * [Hackathon](introduction/hackathon.md)
 
 ## 🎮 Vero Farm Game Play

@@ -4,7 +4,7 @@ description: VERO FARM AIRDROP PROGRAM OFFICIAL LAUNCH !
 
 # Airdrops
 
-![](../.gitbook/assets/vero-airdrop.jpg)
+![](../../.gitbook/assets/vero-airdrop.jpg)
 
  ![&#x1F381;](https://web.telegram.org/k/assets/img/emoji/1f381.png)On the occasion of the new launch in community,Vero Farm brings to you an amazing Airdrop program. 
 
@@ -37,5 +37,6 @@ description: VERO FARM AIRDROP PROGRAM OFFICIAL LAUNCH !
 
  ![&#x1F449;](https://web.telegram.org/k/assets/img/emoji/1f449.png)Discord Group: [https://discord.gg/mwdySF2P](https://discord.gg/mwdySF2P)
 
-[\#VeroFarm](tg://search_hashtag?hashtag=VeroFarm)[\#UfinUk](tg://search_hashtag?hashtag=UfinUk)[\#gamefi](tg://search_hashtag?hashtag=gamefi)[\#Nft](tg://search_hashtag?hashtag=Nft)
+[\#VeroFarm](tg://search_hashtag?hashtag=VeroFarm)[\#UfinUk](tg://search_hashtag?hashtag=UfinUk)[\#gamefi](tg://search_hashtag?hashtag=gamefi)[\#Nft](tg://search_hashtag?hashtag=Nft)  
+[https://airdropalert.com/vero-farm-airdrop](https://airdropalert.com/vero-farm-airdrop)
 
