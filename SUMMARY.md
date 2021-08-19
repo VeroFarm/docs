@@ -60,6 +60,7 @@
 
 * [UFIN](backed/ufin.md)
 * [Partners](backed/partners.md)
+* [Teams](backed/teams.md)
 
 ## 🧾SOCIALS
 
