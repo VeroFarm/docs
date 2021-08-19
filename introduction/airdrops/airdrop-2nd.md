@@ -4,16 +4,19 @@ description: 'Airdrop On Telegram @Airdrop : https://t.me/VeroFarmAirdropBot'
 
 # Airdrop 2nd
 
-📣 Vero Farm Airdrop is live!
+![](../../.gitbook/assets/3f054314-e7a0-41f5-9e37-d2c7c837c73e.jpg)
 
-🏆 Reward for Tasks: Up to 300 VERO \(~$1.5\)
+ ![&#x1F4E3;](https://web.telegram.org/k/assets/img/emoji/1f4e3.png)Vero Farm Airdrop ROUND 2 is live!
 
-👨‍👩‍👧 Referral Reward: 10 VERO \(~$0.05\)
+ ![&#x1F4CC;](https://web.telegram.org/k/assets/img/emoji/1f4cc.png)Total: 3.000.000 Vero Token Reward 
 
-👉 [http://t.me/VeroFarmAirdropBot](http://t.me/VeroFarmAirdropBot) 👈
+![&#x1F4CC;](https://web.telegram.org/k/assets/img/emoji/1f4cc.png) Reward for Tasks: Up to 300 VERO \(~$1.5\)
 
-Airdrop \#Bitcoin \#Ethereum \#Crypto \#crypto \#VeroFarm \#VERO \#Airdropstario  
-💧 Vero Farm @Airdrop 💧
+ ![&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;](https://web.telegram.org/k/assets/img/emoji/1f468-200d-1f469-200d-1f467.png) Referral Reward: 10 VERO \(~$0.05\)
+
+ ![&#x1F449;](https://web.telegram.org/k/assets/img/emoji/1f449.png) [http://t.me/VeroFarmAirdropBot](http://t.me/VeroFarmAirdropBot) ![&#x1F448;](https://web.telegram.org/k/assets/img/emoji/1f448.png)
+
+ [\#Airdrop](tg://search_hashtag?hashtag=Airdrop) [\#Bitcoin](tg://search_hashtag?hashtag=Bitcoin) [\#Ethereum](tg://search_hashtag?hashtag=Ethereum) [\#Crypto](tg://search_hashtag?hashtag=Crypto) [\#VeroFarm](tg://search_hashtag?hashtag=VeroFarm) [\#VERO](tg://search_hashtag?hashtag=VERO) [\#Airdropstario](tg://search_hashtag?hashtag=Airdropstario)
 
 ##  [https://t.me/VeroFarmAirdropBot](https://t.me/VeroFarmAirdropBot)
 
