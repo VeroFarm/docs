@@ -1,5 +1,5 @@
 ---
-description: OPENING!!! VERO FARM IDO WHITELIST CONTEST!
+description: VERO FARM IDO WHITELIST CONTEST!
 ---
 
 # IDO Whitelists
