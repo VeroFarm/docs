@@ -1,6 +1,6 @@
 # Teams
 
-
+![](../.gitbook/assets/ab13f994-475b-4dc7-a02e-296fb205a17f-2-.jpg)
 
 <table>
   <thead>
