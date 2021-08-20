@@ -13,3 +13,5 @@ Total Slots: 750 wallets
 
 ❗️Hardcap: 750 BNB 
 
+❗️Softcap: 375 BNB 
+
