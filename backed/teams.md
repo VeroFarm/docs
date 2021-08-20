@@ -21,9 +21,14 @@
           <br />*Founder at Delta Echo productions
           <br />* 10+ years of experience in developing movie and entertainment projects</p>
         <p>*He is an actor and writer, known for Da 5 Bloods (2020), <a href="https://www.imdb.com/title/tt2672678?ref_=nmbio_mbio">The Change</a> (2013)
-          and <a href="https://www.imdb.com/title/tt5980456?ref_=nmbio_mbio">Enemy in the Heart Trailer</a> (2016).</p>
+          and <a href="https://www.imdb.com/title/tt5980456?ref_=nmbio_mbio">Enemy in the Heart Trailer</a> (2016).
+          <br
+          />
+        </p>
         <p></p>
         <p><a href="https://www.linkedin.com/in/devin-rumer/">https://www.linkedin.com/in/devin-rumer/</a>
+          <br
+          />
         </p>
       </td>
     </tr>
@@ -40,6 +45,10 @@
         <p></p>
         <p><a href="https://www.linkedin.com/in/robetpham/">https://www.linkedin.com/in/robetpham/</a>
         </p>
+        <p>
+          <br />
+          <br />
+        </p>
       </td>
     </tr>
     <tr>
@@ -52,9 +61,14 @@
         <p>*Founder and CTO at UFIN company
           <br />*Founder at Onic Games</p>
         <p>+5 years of experience in Blockchain Project Manager</p>
-        <p>+4 years of experience in entertainment games development for Asia market</p>
-        <p></p>
+        <p>+4 years of experience in entertainment games development for Asia market
+          <br
+          />
+        </p>
         <p><a href="https://www.linkedin.com/in/hoanganhcuong/">https://www.linkedin.com/in/hoanganhcuong/</a>
+          <br
+          />
+          <br />
         </p>
       </td>
     </tr>
@@ -70,7 +84,11 @@
         <p>* Owner of Axie infinity community group [SS]</p>
         <p>* 4+ years of experience in crypto community development</p>
         <p></p>
-        <p>https://www.linkedin.com/in/justin-nguyenn/</p>
+        <p>https://www.linkedin.com/in/justin-nguyenn/
+          <br />
+        </p>
+        <p><b><br /></b>
+        </p>
       </td>
     </tr>
     <tr>
@@ -86,7 +104,9 @@
           <br
           />* In charge of Vietnam-China joint venture cooperation.</p>
         <p></p>
-        <p>https://www.linkedin.com/in/yunmei-ying/</p>
+        <p>https://www.linkedin.com/in/yunmei-ying/
+          <br />
+        </p>
       </td>
     </tr>
     <tr>
@@ -104,7 +124,11 @@
         <p>* 3+ years of experience in product content development for blockchain
           projects.</p>
         <p></p>
-        <p>https://www.linkedin.com/in/ducanhkorea/</p>
+        <p>https://www.linkedin.com/in/ducanhkorea/<b><br /></b>
+        </p>
+        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <p><b><br /></b>
+        </p>
       </td>
     </tr>
     <tr>
@@ -119,7 +143,10 @@
         <p>* 10 years of experience in Healthcare Platform Development</p>
         <p>* 5 years of experience in Strategic Advisor for Startup.</p>
         <p></p>
-        <p>https://www.linkedin.com/in/linknguyen/</p>
+        <p>https://www.linkedin.com/in/linknguyen/
+          <br />
+          <br />
+        </p>
       </td>
     </tr>
   </tbody>
