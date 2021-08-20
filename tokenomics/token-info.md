@@ -11,5 +11,6 @@ description: VERO TOKEN Information
 | Symbol | VERO |
 | Network | Binance Smartchain |
 | Decimal | 6 |
+| Transaction Fee | 0,1% |
 | Scan | will update |
 
