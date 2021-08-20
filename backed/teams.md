@@ -7,7 +7,7 @@
     <tr>
       <th style="text-align:left">Name</th>
       <th style="text-align:left">Position</th>
-      <th style="text-align:center">Description</th>
+      <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
@@ -16,7 +16,7 @@
       </td>
       <td style="text-align:left"><b>CEO</b>
       </td>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>*CMO at UFIN Company
           <br />*Founder at Delta Echo productions
           <br />* 10+ years of experience in developing movie and entertainment projects</p>
@@ -37,7 +37,7 @@
       </td>
       <td style="text-align:left"><b>CMO</b>
       </td>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>*<em>Founder and CM at UFIN company </em>
         </p>
         <p>*Founder and CEO at HoangGiaPham Company</p>
@@ -57,7 +57,7 @@
       </td>
       <td style="text-align:left"><b> CTO</b>
       </td>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>*Founder and CTO at UFIN company
           <br />*Founder at Onic Games</p>
         <p>+5 years of experience in Blockchain Project Manager</p>
@@ -77,7 +77,7 @@
       </td>
       <td style="text-align:left"><b>CM</b>
       </td>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>* Personal trainer and partner connection at gigatum technology application
           company.</p>
         <p>* Researcher &amp; Co-Founder SS ventures</p>
@@ -96,7 +96,7 @@
       </td>
       <td style="text-align:left"><b>COO</b>
       </td>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>* 6+ years of experience in fund raising for blockchain startup projects.
           <br
           />* Co-Founder &amp; COO SS Ventures
@@ -114,7 +114,7 @@
       </td>
       <td style="text-align:left"><b>CPO</b>
       </td>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <p>* Nowadays, young generation around the world more and more get involve
           into cryptocurrency and technology industry</p>
@@ -137,7 +137,7 @@
       </td>
       <td style="text-align:left"><b>SA</b>
       </td>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>* Platform Director of DTS Group (Digital Transformation for SME)</p>
         <p>* General Cordinator of BAS (Blockchain Alliance for Sustainability)</p>
         <p>* 10 years of experience in Healthcare Platform Development</p>
