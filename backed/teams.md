@@ -53,7 +53,8 @@
     <tr>
       <td style="text-align:left"><b>Justin Nguyen</b>
       </td>
-      <td style="text-align:left">CM</td>
+      <td style="text-align:left"><b>CM</b>
+      </td>
       <td style="text-align:center">
         <p>* Personal trainer and partner connection at gigatum technology application
           company</p>
@@ -67,7 +68,8 @@
     <tr>
       <td style="text-align:left"><b>Yunmei Ying</b>
       </td>
-      <td style="text-align:left">COO</td>
+      <td style="text-align:left"><b>COO</b>
+      </td>
       <td style="text-align:center">- 6+ years of experience in fund raising for blockchain startup projects.
         <br
         />- Co-Founder &amp; COO SS Ventures
@@ -80,7 +82,8 @@
     <tr>
       <td style="text-align:left"><b>Duca Nguyen</b>
       </td>
-      <td style="text-align:left">CPO</td>
+      <td style="text-align:left"><b>CPO</b>
+      </td>
       <td style="text-align:center">
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <ul>
@@ -100,7 +103,8 @@
       <td style="text-align:left"><b>Robert Nguyen</b>
         <br />
       </td>
-      <td style="text-align:left">SA</td>
+      <td style="text-align:left"><b>SA</b>
+      </td>
       <td style="text-align:center">
         <p>Platform Director of DTS Group (Digital Transformation for SME)</p>
         <p>General Cordinator of BAS (Blockchain Alliance for Sustainability)</p>
