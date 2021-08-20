@@ -16,11 +16,21 @@
       </td>
       <td style="text-align:left"><b>CEO</b>
       </td>
-      <td style="text-align:center">*CMO at UFIN Company
-        <br />*Founder at Delta Echo productions
-        <br />* 10+ years of experience in developing movie and entertainment projects*He
-        is an actor and writer, known for Da 5 Bloods (2020), <a href="https://www.imdb.com/title/tt2672678?ref_=nmbio_mbio">The Change</a> (2013)
-        and <a href="https://www.imdb.com/title/tt5980456?ref_=nmbio_mbio">Enemy in the Heart Trailer</a> (2016).</td>
+      <td style="text-align:center">
+        <p>*CMO at UFIN Company
+          <br />*Founder at Delta Echo productions
+          <br />* 10+ years of experience in developing movie and entertainment projects</p>
+        <p>*He is an actor and writer, known for Da 5 Bloods (2020), <a href="https://www.imdb.com/title/tt2672678?ref_=nmbio_mbio">The Change</a> (2013)
+          and <a href="https://www.imdb.com/title/tt5980456?ref_=nmbio_mbio">Enemy in the Heart Trailer</a> (2016).
+          <br
+          />
+        </p>
+        <p></p>
+        <p><a href="https://www.linkedin.com/in/devin-rumer/">https://www.linkedin.com/in/devin-rumer/</a>
+          <br
+          />
+        </p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Robert Pham</b>
@@ -28,12 +38,8 @@
       <td style="text-align:left"><b>CMO</b>
       </td>
       <td style="text-align:center">
-        <p>*Founder and CM at UFIN company
-          <br />*Founder and CEO at HoangGiaPham Company</p>
-        <p>* 5+ years of experience in SoftSkill Trainer
-          <br />
-          <br />
-        </p>
+        <br />
+        <br />
       </td>
     </tr>
     <tr>
@@ -49,6 +55,11 @@
         <p>+4 years of experience in entertainment games development for Asia market
           <br
           />
+        </p>
+        <p><a href="https://www.linkedin.com/in/hoanganhcuong/">https://www.linkedin.com/in/hoanganhcuong/</a>
+          <br
+          />
+          <br />
         </p>
       </td>
     </tr>
