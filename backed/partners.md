@@ -1,3 +1,7 @@
+---
+description: Vero Farm Partners
+---
+
 # Partners
 
 ![Partners](../.gitbook/assets/our-partner.png)
