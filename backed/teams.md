@@ -6,7 +6,6 @@
       <th style="text-align:left">Name</th>
       <th style="text-align:left">Position</th>
       <th style="text-align:center">Description</th>
-      <th style="text-align:left">Linkedln</th>
     </tr>
   </thead>
   <tbody>
@@ -20,11 +19,6 @@
         <br />* 10+ years of experience in developing movie and entertainment projects*He
         is an actor and writer, known for Da 5 Bloods (2020), <a href="https://www.imdb.com/title/tt2672678?ref_=nmbio_mbio">The Change</a> (2013)
         and <a href="https://www.imdb.com/title/tt5980456?ref_=nmbio_mbio">Enemy in the Heart Trailer</a> (2016).</td>
-      <td
-      style="text-align:left"><a href="https://www.linkedin.com/in/devin-rumer/
-
-">https://www.linkedin.com/in/devin-rumer/<br /></a> 
-        </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Robert Pham</b>
@@ -38,8 +32,6 @@
           <br />
           <br />
         </p>
-      </td>
-      <td style="text-align:left"><a href="https://www.linkedin.com/in/robetpham/">https://www.linkedin.com/in/robetpham/</a>
       </td>
     </tr>
     <tr>
@@ -57,8 +49,6 @@
           />
         </p>
       </td>
-      <td style="text-align:left"><a href="https://www.linkedin.com/in/hoanganhcuong/">https://www.linkedin.com/in/hoanganhcuong/</a>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Justin Nguyen</b>
@@ -73,8 +63,6 @@
         <p><b><br /></b>
         </p>
       </td>
-      <td style="text-align:left"><a href="https://www.linkedin.com/in/justin-nguyenn/">https://www.linkedin.com/in/justin-nguyenn/</a>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Yunmei Ying</b>
@@ -87,8 +75,6 @@
         <br
         />- In charge of Vietnam-China joint venture cooperation.
         <br />
-      </td>
-      <td style="text-align:left"><a href="https://www.linkedin.com/in/yunmei-ying/">https://www.linkedin.com/in/yunmei-ying/</a>
       </td>
     </tr>
     <tr>
@@ -109,8 +95,6 @@
         <p>https://www.linkedin.com/in/ducanhkorea/<b><br /></b>
         </p>
       </td>
-      <td style="text-align:left"><a href="https://www.linkedin.com/in/ducanhkorea/">https://www.linkedin.com/in/ducanhkorea/</a>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Robert Nguyen</b>
@@ -124,8 +108,6 @@
         <p>+ 5 years of experience in Strategic Advisor for Startup.
           <br />
         </p>
-      </td>
-      <td style="text-align:left"><a href="https://www.linkedin.com/in/linknguyen/">https://www.linkedin.com/in/linknguyen/</a>
       </td>
     </tr>
   </tbody>
