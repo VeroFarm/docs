@@ -78,16 +78,13 @@
       <td style="text-align:left"><b>CM</b>
       </td>
       <td style="text-align:center">
-        <p><b>* Personal trainer and partner connection at gigatum technology application company </b>
-        </p>
-        <p><b>* Researcher &amp; Co-Founder SS ventures</b>
-        </p>
-        <p><b>* Owner of Axie infinity community group [SS]</b>
-        </p>
-        <p><b>* 4+ years of experience in crypto community development</b>
-        </p>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p><b>https://www.linkedin.com/in/justin-nguyenn/</b>
+        <p>* Personal trainer and partner connection at gigatum technology application
+          company.</p>
+        <p>* Researcher &amp; Co-Founder SS ventures</p>
+        <p>* Owner of Axie infinity community group [SS]</p>
+        <p>* 4+ years of experience in crypto community development</p>
+        <p></p>
+        <p>https://www.linkedin.com/in/justin-nguyenn/
           <br />
         </p>
         <p><b><br /></b>
@@ -100,9 +97,14 @@
       <td style="text-align:left"><b>COO</b>
       </td>
       <td style="text-align:center">
-        <p><b>- 6+ years of experience in fund raising for blockchain startup projects.<br />- Co-Founder &amp; COO SS Ventures<br />- Manage and operate the crypto-communities of many crypto-projects.<br />- In charge of Vietnam-China joint venture cooperation.</b>
-        </p>
-        <p><b>https://www.linkedin.com/in/yunmei-ying/</b>
+        <p>* 6+ years of experience in fund raising for blockchain startup projects.
+          <br
+          />* Co-Founder &amp; COO SS Ventures
+          <br />* Manage and operate the crypto-communities of many crypto-projects.
+          <br
+          />* In charge of Vietnam-China joint venture cooperation.</p>
+        <p></p>
+        <p>https://www.linkedin.com/in/yunmei-ying/
           <br />
         </p>
       </td>
@@ -114,16 +116,15 @@
       </td>
       <td style="text-align:center">
         <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p><b>Nowadays, young generation around the world more and more get involve into cryptocurrency and technology industry  - Co-Founder SS Ventures</b>
-        </p>
-        <p><b> Community manager of Play To Earn VN group</b>
-        </p>
-        <p><b> Community manager of SS CRYPTO Viet Nam group</b>
-        </p>
-        <p><b>-3+ years of experience in product content development for blockchain projects.</b>
-        </p>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p><b>https://www.linkedin.com/in/ducanhkorea/<br /></b>
+        <p>* Nowadays, young generation around the world more and more get involve
+          into cryptocurrency and technology industry</p>
+        <p>* Co-Founder SS Ventures</p>
+        <p>* Community manager of Play To Earn VN group</p>
+        <p>* Community manager of SS CRYPTO Viet Nam group</p>
+        <p>* 3+ years of experience in product content development for blockchain
+          projects.</p>
+        <p></p>
+        <p>https://www.linkedin.com/in/ducanhkorea/<b><br /></b>
         </p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <p><b><br /></b>
@@ -137,16 +138,12 @@
       <td style="text-align:left"><b>SA</b>
       </td>
       <td style="text-align:center">
-        <p><b>Platform Director of DTS Group (Digital Transformation for SME)</b>
-        </p>
-        <p><b>General Cordinator of BAS (Blockchain Alliance for Sustainability)</b>
-        </p>
-        <p><b>+ 10 years of experience in Healthcare Platform Development</b>
-        </p>
-        <p><b>+ 5 years of experience in Strategic Advisor for Startup.</b>
-        </p>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p><b>https://www.linkedin.com/in/linknguyen/</b>
+        <p>* Platform Director of DTS Group (Digital Transformation for SME)</p>
+        <p>* General Cordinator of BAS (Blockchain Alliance for Sustainability)</p>
+        <p>* 10 years of experience in Healthcare Platform Development</p>
+        <p>* 5 years of experience in Strategic Advisor for Startup.</p>
+        <p></p>
+        <p>https://www.linkedin.com/in/linknguyen/
           <br />
           <br />
         </p>
