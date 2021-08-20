@@ -70,10 +70,11 @@
         <p>* Researcher &amp; Co-Founder SS ventures</p>
         <p>* Owner of Axie infinity community group [SS]</p>
         <p>* 4+ years of experience in crypto community development</p>
-        <p>https://www.linkedin.com/in/justin-nguyenn/<b><br /></b>
+        <p><b><br /></b>
         </p>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://www.linkedin.com/in/justin-nguyenn/">https://www.linkedin.com/in/justin-nguyenn/</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Yunmei Ying</b>
@@ -87,13 +88,45 @@
         />- In charge of Vietnam-China joint venture cooperation.
         <br />
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://www.linkedin.com/in/yunmei-ying/">https://www.linkedin.com/in/yunmei-ying/</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:center">&lt;b&gt;&lt;/b&gt;</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>Duca Nguyen</b>
+      </td>
+      <td style="text-align:left">CPO</td>
+      <td style="text-align:center">
+        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <ul>
+          <li>Nowadays, young generation around the world more and more get involve
+            into cryptocurrency and technology industry</li>
+        </ul>
+        <p>- Co-Founder SS Ventures</p>
+        <p>- Community manager of Play To Earn VN group</p>
+        <p>- Community manager of SS CRYPTO Viet Nam group</p>
+        <p>- 3+ years of experience in product content development for blockchain
+          projects.</p>
+        <p>https://www.linkedin.com/in/ducanhkorea/<b><br /></b>
+        </p>
+      </td>
+      <td style="text-align:left"><a href="https://www.linkedin.com/in/ducanhkorea/">https://www.linkedin.com/in/ducanhkorea/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Robert Nguyen</b>
+        <br />
+      </td>
+      <td style="text-align:left">SA</td>
+      <td style="text-align:center">
+        <p>Platform Director of DTS Group (Digital Transformation for SME)</p>
+        <p>General Cordinator of BAS (Blockchain Alliance for Sustainability)</p>
+        <p>+ 10 years of experience in Healthcare Platform Development</p>
+        <p>+ 5 years of experience in Strategic Advisor for Startup.
+          <br />
+        </p>
+      </td>
+      <td style="text-align:left"><a href="https://www.linkedin.com/in/linknguyen/">https://www.linkedin.com/in/linknguyen/</a>
+      </td>
     </tr>
   </tbody>
 </table>
