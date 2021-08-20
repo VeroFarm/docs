@@ -14,7 +14,8 @@ description: VERO FARM IDO WHITELIST CONTEST!
 
 ❗️Hardcap: 750 BNB 
 
-This contest is an opportunity to help us choose those who are really interested in the development of Vero Farm THUS, Don't hesitate anymore! 👉JOIN NOW: [https://gleam.io/Fhl2U/vero-farm-whitelist-compettion](https://gleam.io/Fhl2U/vero-farm-whitelist-compettion)
+This contest is an opportunity to help us choose those who are really interested in the development of Vero Farm THUS, Don't hesitate anymore!   
+👉JOIN NOW: [https://gleam.io/Fhl2U/vero-farm-whitelist-compettion](https://gleam.io/Fhl2U/vero-farm-whitelist-compettion)
 
 ![](../../.gitbook/assets/banner-game-2-01-1-.png)
 
