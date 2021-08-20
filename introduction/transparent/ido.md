@@ -1,5 +1,5 @@
 ---
-description: IDO on JLaunchpad
+description: IDO will be open on JLaunchpad
 ---
 
 # IDO
