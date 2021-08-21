@@ -42,8 +42,7 @@ description: Vero Farm Teams
         <p>*Founder and CEO at HoangGiaPham Company</p>
         <p>*5+ years of experience in SoftSkill Trainer</p>
         <p></p>
-        <p><a href="https://www.linkedin.com/in/robetpham/">https://www.linkedin.com/in/robetpham/</a>
-        </p>
+        <p></p>
       </td>
     </tr>
     <tr>
