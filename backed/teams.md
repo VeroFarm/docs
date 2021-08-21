@@ -74,7 +74,8 @@ description: Vero Farm Teams
         <p>* Owner of Axie infinity community group [SS]</p>
         <p>* 4+ years of experience in crypto community development</p>
         <p></p>
-        <p>https://www.linkedin.com/in/justin-nguyenn/</p>
+        <p><a href="https://www.linkedin.com/in/justin-nguyenn/">https://www.linkedin.com/in/justin-nguyenn/</a>
+        </p>
       </td>
     </tr>
     <tr>
@@ -90,7 +91,8 @@ description: Vero Farm Teams
           <br
           />* In charge of Vietnam-China joint venture cooperation.</p>
         <p></p>
-        <p>https://www.linkedin.com/in/yunmei-ying/</p>
+        <p><a href="https://www.linkedin.com/in/yunmei-ying/">https://www.linkedin.com/in/yunmei-ying/</a>
+        </p>
       </td>
     </tr>
     <tr>
@@ -108,7 +110,8 @@ description: Vero Farm Teams
         <p>* 3+ years of experience in product content development for blockchain
           projects.</p>
         <p></p>
-        <p>https://www.linkedin.com/in/ducanhkorea/</p>
+        <p><a href="https://www.linkedin.com/in/ducanhkorea/">https://www.linkedin.com/in/ducanhkorea/</a>
+        </p>
       </td>
     </tr>
     <tr>
@@ -123,7 +126,8 @@ description: Vero Farm Teams
         <p>* 10 years of experience in Healthcare Platform Development</p>
         <p>* 5 years of experience in Strategic Advisor for Startup.</p>
         <p></p>
-        <p>https://www.linkedin.com/in/linknguyen/</p>
+        <p><a href="https://www.linkedin.com/in/linknguyen/">https://www.linkedin.com/in/linknguyen/</a>
+        </p>
       </td>
     </tr>
   </tbody>
