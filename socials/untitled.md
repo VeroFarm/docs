@@ -20,30 +20,6 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Telegram Group</td>
-      <td style="text-align:left"><a href="https://t.me/VeroFarmVN">https://t.me/VeroFarmVN</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Telegram Group</td>
-      <td style="text-align:left"><a href="https://t.me/VeroFarmKorea">https://t.me/VeroFarmKorea</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Telegram Group</td>
-      <td style="text-align:left"><a href="https://t.me/VeroFarmIndia">https://t.me/VeroFarmIndia</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Telegram Group</td>
-      <td style="text-align:left"><a href="https://t.me/VeroFarmChina">https://t.me/VeroFarmChina</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Telegram Group</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
       <td style="text-align:left">Facebook</td>
       <td style="text-align:left"><a href="https://www.facebook.com/VeroFarmGames">https://www.facebook.com/VeroFarmGames</a>
       </td>
@@ -104,6 +80,48 @@
     <tr>
       <td style="text-align:left">Youtube</td>
       <td style="text-align:left"><a href="https://www.youtube.com/channel/UCx2qltqWmYts60KGC4Xxkyg">https://www.youtube.com/channel/UCx2qltqWmYts60KGC4Xxkyg</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Local Communit</b>y</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Group Vietnam 1</td>
+      <td style="text-align:left"><a href="https://t.me/VeroFarmVN">https://t.me/VeroFarmVN</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Group Vietnam 2</td>
+      <td style="text-align:left"><a href="https://t.me/VeroFarmVietNam">https://t.me/VeroFarmVietNam</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Group Vietnam 3</td>
+      <td style="text-align:left"><a href="https://t.me/verofarm1">https://t.me/verofarm1</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Group H&#xE0;n</td>
+      <td style="text-align:left"><a href="https://t.me/VeroFarmKorea">https://t.me/VeroFarmKorea</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Group China</td>
+      <td style="text-align:left"><a href="https://t.me/VeroFarmChina">https://t.me/VeroFarmChina</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Group &#x1EA4;n &#x111;&#x1ED9;</td>
+      <td style="text-align:left"><a href="https://t.me/VeroFarmIndia">https://t.me/VeroFarmIndia</a>
       </td>
     </tr>
   </tbody>
