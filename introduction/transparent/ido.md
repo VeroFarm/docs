@@ -7,7 +7,8 @@ description: IDO will be open on JLaunchpad
 J launchpad is a easy platform to launch a crypto project. J launchpad offers a diverse range of services to meet the needs of your blockchain project.  
 Site: https://JLaunchpad.com  
 Channel Telegram: [https://t.me/JLaunchPad](https://t.me/JLaunchPad)  
-Group Telegram: [https://t.me/JLaunchpadGroups](https://t.me/JLaunchpadGroups)
+Group Telegram: [https://t.me/JLaunchpadGroups](https://t.me/JLaunchpadGroups)  
+Link Waiting to IDO: [https://verofarm.jlaunchpad.com/](https://verofarm.jlaunchpad.com/)
 
 Total Slots: 750 wallets   
 ❗️Purchasing limitation: FIXED CAP 1 BNB   
