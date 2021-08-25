@@ -129,6 +129,11 @@
       <td style="text-align:left"><a href="https://t.me/VeroFarmsPhilippines">https://t.me/VeroFarmsPhilippines</a>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">Group Indonesia</td>
+      <td style="text-align:left"><a href="https://t.me/verofarmINDONESIA">https://t.me/verofarmINDONESIA</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
