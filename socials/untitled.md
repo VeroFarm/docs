@@ -95,22 +95,12 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Group Vietnam 1</td>
-      <td style="text-align:left"><a href="https://t.me/VeroFarmVN">https://t.me/VeroFarmVN</a>
+      <td style="text-align:left">Group Vietnam</td>
+      <td style="text-align:left"><a href="https://t.me/VerofarmVietNamese">https://t.me/VerofarmVietNamese</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Group Vietnam 2</td>
-      <td style="text-align:left"><a href="https://t.me/VeroFarmVietNam">https://t.me/VeroFarmVietNam</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Group Vietnam 3</td>
-      <td style="text-align:left"><a href="https://t.me/verofarm1">https://t.me/verofarm1</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Group H&#xE0;n</td>
+      <td style="text-align:left">Group Korea</td>
       <td style="text-align:left"><a href="https://t.me/VeroFarmKorea">https://t.me/VeroFarmKorea</a>
       </td>
     </tr>
@@ -120,7 +110,7 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Group &#x1EA4;n &#x111;&#x1ED9;</td>
+      <td style="text-align:left">Group India</td>
       <td style="text-align:left"><a href="https://t.me/VeroFarmIndia">https://t.me/VeroFarmIndia</a>
       </td>
     </tr>
@@ -132,6 +122,11 @@
     <tr>
       <td style="text-align:left">Group Indonesia</td>
       <td style="text-align:left"><a href="https://t.me/verofarmINDONESIA">https://t.me/verofarmINDONESIA</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Group Russia</td>
+      <td style="text-align:left"><a href="https://t.me/VeroFarmRussia">https://t.me/VeroFarmRussia</a>
       </td>
     </tr>
   </tbody>
