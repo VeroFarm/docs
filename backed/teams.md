@@ -54,8 +54,8 @@ description: Vero Farm Teams
       <td style="text-align:left">
         <p>*Founder and CTO at UFIN company
           <br />*Founder at Onic Games</p>
-        <p>+5 years of experience in Blockchain Project Manager</p>
-        <p>+4 years of experience in entertainment games development for Asia market</p>
+        <p>*5+ years of experience in Blockchain Project Manager</p>
+        <p>*4+ years of experience in entertainment games development for Asia market</p>
         <p></p>
         <p><a href="https://www.linkedin.com/in/hoanganhcuong/">https://www.linkedin.com/in/hoanganhcuong/</a>
         </p>
@@ -67,7 +67,7 @@ description: Vero Farm Teams
       <td style="text-align:left"><b>CM</b>
       </td>
       <td style="text-align:left">
-        <p>* Personal trainer and partner connection at gigatum technology application
+        <p>* Personal trainer and partner connecting at gigatum technology application
           company.</p>
         <p>* Researcher &amp; Co-Founder SS ventures</p>
         <p>* Owner of Axie infinity community group [SS]</p>
@@ -122,8 +122,8 @@ description: Vero Farm Teams
       <td style="text-align:left">
         <p>* Platform Director of DTS Group (Digital Transformation for SME)</p>
         <p>* General Cordinator of BAS (Blockchain Alliance for Sustainability)</p>
-        <p>* 10 years of experience in Healthcare Platform Development</p>
-        <p>* 5 years of experience in Strategic Advisor for Startup.</p>
+        <p>* 10+ years of experience in Healthcare Platform Development</p>
+        <p>* 5+ years of experience in Strategic Advisor for Startup.</p>
         <p></p>
         <p><a href="https://www.linkedin.com/in/linknguyen/">https://www.linkedin.com/in/linknguyen/</a>
         </p>
