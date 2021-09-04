@@ -79,7 +79,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Youtube</td>
-      <td style="text-align:left"><a href="https://www.youtube.com/channel/UCx2qltqWmYts60KGC4Xxkyg">https://www.youtube.com/channel/UCx2qltqWmYts60KGC4Xxkyg</a>
+      <td style="text-align:left"><a href="https://www.youtube.com/channel/UC0MM43-4ms2frC_ZqdXs4Lw">https://www.youtube.com/channel/UC0MM43-4ms2frC_ZqdXs4Lw</a>
       </td>
     </tr>
     <tr>
