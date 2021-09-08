@@ -3,12 +3,16 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Website</th>
-      <th style="text-align:left"><a href="https://verofarm.com">https://verofarm.com</a>
-      </th>
+      <th style="text-align:left">Social Chanel</th>
+      <th style="text-align:left">Detail</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left">Website</td>
+      <td style="text-align:left"><a href="https://verofarm.com">https://verofarm.com</a>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left">Telegram</td>
       <td style="text-align:left"><a href="https://t.me/VeroFarm">https://t.me/VeroFarm</a>
