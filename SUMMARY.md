@@ -64,7 +64,7 @@
 
 ## 🧾SOCIALS
 
-* [Vero Farm Socials](socials/untitled.md)
+* [Vero Farm Socials](socials/vero-farm-socials.md)
 
 ## 📈MEDIA & PR
 
