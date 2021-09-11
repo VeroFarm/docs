@@ -19,7 +19,7 @@
   * [Private Sales](introduction/transparent/private-sales.md)
   * [IDO Whitelists](introduction/transparent/ido-whitelists.md)
   * [IDO](introduction/transparent/ido.md)
-  * [Lock LP on DXSales](introduction/transparent/lock-lp-on-dxsales.md)
+  * [Lock LP on Team.Finance](introduction/transparent/lock-lp-on-dxsales.md)
   * [Lock Vero Token](introduction/transparent/lock-vero-token.md)
   * [Test on testnet](introduction/transparent/test-on-testnet.md)
 * [Airdrops](introduction/airdrops/README.md)
