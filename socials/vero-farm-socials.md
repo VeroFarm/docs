@@ -43,7 +43,7 @@
         <p>Discord</p>
         <p>Group</p>
       </td>
-      <td style="text-align:left"><a href="https://discord.com/channels/872066519008411699/872066519008411701">https://discord.com/channels/872066519008411699/872066519008411701</a>
+      <td style="text-align:left"><a href="https://discord.gg/bV2gTkJ2WN?">https://discord.gg/bV2gTkJ2WN</a>
       </td>
     </tr>
     <tr>
