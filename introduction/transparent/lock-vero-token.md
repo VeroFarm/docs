@@ -16,6 +16,11 @@ description: >-
 2. **Team:**  
 [**https://bscscan.com/tx/0x5e3b51d7f1cd06ff1f6a04965c8556f324a80f16866369f5cd5af9789886dd0a**](https://bscscan.com/tx/0x5e3b51d7f1cd06ff1f6a04965c8556f324a80f16866369f5cd5af9789886dd0a)\*\*\*\*
 
+**3. Foundation:**  
+[**https://bscscan.com/tx/0xc3e0007c0f28ad9e990c928c4cb994ea27a3c86c260e25d2223ba51c700b68d7**](https://bscscan.com/tx/0xc3e0007c0f28ad9e990c928c4cb994ea27a3c86c260e25d2223ba51c700b68d7)\*\*\*\*
+
+\*\*\*\*
+
 \*\*\*\*
 
 \*\*\*\*
