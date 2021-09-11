@@ -49,6 +49,7 @@
 * [Token Allocation](tokenomics/token-allocation.md)
 * [Wallets](tokenomics/wallets.md)
 * [Exchanges](tokenomics/exchanges.md)
+* [LP Token](tokenomics/lp-token.md)
 * [Test Tokens](tokenomics/test-tokens.md)
 
 ## 🌿NFT Farm Pool
