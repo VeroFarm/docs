@@ -34,11 +34,6 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Instagram</td>
-      <td style="text-align:left"><a href="https://www.instagram.com/VeroFarm.Games/">https://www.instagram.com/VeroFarm.Games/</a>
-      </td>
-    </tr>
-    <tr>
       <td style="text-align:left">
         <p>Discord</p>
         <p>Group</p>
@@ -52,6 +47,11 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Linkedin</td>
+      <td style="text-align:left"><a href="https://www.linkedin.com/company/verofarm/">https://www.linkedin.com/company/verofarm/</a>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">Medium</td>
       <td style="text-align:left"><a href="https://verofarm.medium.com/">https://verofarm.medium.com/</a>
       </td>
@@ -62,13 +62,18 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Linkedin</td>
-      <td style="text-align:left"><a href="https://www.linkedin.com/company/verofarm/">https://www.linkedin.com/company/verofarm/</a>
+      <td style="text-align:left">Pinterest</td>
+      <td style="text-align:left"><a href="https://www.pinterest.com/verofarmofficial">https://www.pinterest.com/verofarmofficial</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Pinterest</td>
-      <td style="text-align:left"><a href="https://www.pinterest.com/verofarmofficial">https://www.pinterest.com/verofarmofficial</a>
+      <td style="text-align:left">SubStack</td>
+      <td style="text-align:left"><a href="https://verofarm.substack.com/">https://verofarm.substack.com/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Instagram</td>
+      <td style="text-align:left"><a href="https://www.instagram.com/VeroFarm.Games/">https://www.instagram.com/VeroFarm.Games/</a>
       </td>
     </tr>
     <tr>
