@@ -25,7 +25,8 @@ description: 'Stake Vero Token to earn Ticket, Use ticket to exchange NFTs'
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">lock time</td>
+      <td style="text-align:left"><b>lock time</b>
+      </td>
       <td style="text-align:left">
         <p>free</p>
         <p>User c&#xF3; th&#x1EC3; unlock b&#x1EA5;t k&#x1EF3; l&#xFA;c n&#xE0;o
@@ -35,11 +36,13 @@ description: 'Stake Vero Token to earn Ticket, Use ticket to exchange NFTs'
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">reward period</td>
+      <td style="text-align:left"><b>reward period</b>
+      </td>
       <td style="text-align:left">30 day</td>
     </tr>
     <tr>
-      <td style="text-align:left">APR</td>
+      <td style="text-align:left"><b>APR</b>
+      </td>
       <td style="text-align:left">
         <p>60%/year =&gt; 5% / month</p>
         <p>Can config-able
@@ -48,7 +51,8 @@ description: 'Stake Vero Token to earn Ticket, Use ticket to exchange NFTs'
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Stake fee</td>
+      <td style="text-align:left"><b>Stake fee</b>
+      </td>
       <td style="text-align:left">0.01 bnb</td>
     </tr>
   </tbody>
@@ -56,11 +60,11 @@ description: 'Stake Vero Token to earn Ticket, Use ticket to exchange NFTs'
 
 ## **3.Unlock**
 
-| Unlocked ahead of time but not rewarded |  |
+| **Unlocked ahead of time but not rewarded** |  |
 | :--- | :--- |
-| Interest in multiples rounded down to Block | 1 block=30 ngày  |
-| for example |  |
-| Unlocked day 29 | 0.9 block =&gt; profit = 5% \* 0 |
-| Unlocked day 30 | 1 block =&gt; profit = 5% \* 1 |
-| Unlocked day 59 | 1.9 block =&gt; profit = 5% \* 1 |
+| **Interest in multiples rounded down to Block** | 1 block=30 ngày  |
+| for example : |  |
+| **Unlocked day 29** | 0.9 block =&gt; profit = 5% \* 0 |
+| **Unlocked day 30** | 1 block =&gt; profit = 5% \* 1 |
+| **Unlocked day 59** | 1.9 block =&gt; profit = 5% \* 1 |
 
