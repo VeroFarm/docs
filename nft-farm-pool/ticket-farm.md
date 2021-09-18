@@ -56,11 +56,11 @@ description: 'Stake Vero Token to earn Ticket, Use ticket to exchange NFTs'
 
 ## **3.Unlock**
 
-| **được unlock trước hạn nhưng không được reward** |  |  |
+| Unlocked ahead of time but not rewarded |  |  |
 | :--- | :--- | :--- |
-|  | 1 block=30 days |  |
-| For example |  |  |
-| **Unlock ngày 29** |  |  |
-| **Unlock ngày 30** |  |  |
-| **Unlock ngày 59** |  |  |
+| Interest in multiples rounded down to Block | 1 block=30 ngày  |  |
+| for example |  |  |
+| Unlocked day 29 | 0.9 block =&gt; profit = 5% \* 0 |  |
+| Unlocked day 30 | 1 block =&gt; profit = 5% \* 1 |  |
+| Unlocked day 59 | 1.9 block =&gt; profit = 5% \* 1 |  |
 
