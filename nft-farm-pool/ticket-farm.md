@@ -58,11 +58,9 @@ description: 'Stake Vero Token to earn Ticket, Use ticket to exchange NFTs'
 
 | **được unlock trước hạn nhưng không được reward** |  |  |
 | :--- | :--- | :--- |
-| \*\*\*\* | 1 block=30 ngày  |  |
+|  | 1 block=30 ngày  |  |
 | **Vd:** |  |  |
 | **Unlock ngày 29** |  |  |
 | **Unlock ngày 30** |  |  |
 | **Unlock ngày 59** |  |  |
-
-\*\*\*\*
 
