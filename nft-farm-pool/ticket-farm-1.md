@@ -17,11 +17,45 @@ https://testnet.bscscan.com/address/0x39Bbf1903F96AF1c6EFEBf78897367fE49e9e61F#c
 
 ## **2.Staking Token**
 
-|  |  |
-| :--- | :--- |
-| **Min stake** | 20,000 won 1 address is staked only once |
-| **lock time** | Unlocked after 5 days |
-| **reward period** | **5 days** |
-| **Reward** |  |
-| **Stake fee** |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Min stake</b>
+      </td>
+      <td style="text-align:left">20,000 won 1 address is staked only once</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>lock time</b>
+      </td>
+      <td style="text-align:left">Unlocked after 5 days</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>reward period</b>
+      </td>
+      <td style="text-align:left">5 days</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Reward</b>
+      </td>
+      <td style="text-align:left">
+        <p><em>1 ticket</em>
+        </p>
+        <p>
+          <br />address lock meets the conditions to get 1 Vero Ticket only</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Stake fee</b>
+      </td>
+      <td style="text-align:left"><b>0.01 bnb</b>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
