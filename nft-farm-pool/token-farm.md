@@ -58,6 +58,8 @@ description: 'Stake Vero Token to earn Ticket, Use ticket to exchange NFTs'
   </tbody>
 </table>
 
+Vero Staking Ticket: No fee applied Lock transfer - Similar to Vero Staking Token Decimal: 0 \(to avoid the decimal point\)
+
 ## **3.Unlock**
 
 | unlock anytime but no rewards included |  |
