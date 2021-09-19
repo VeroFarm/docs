@@ -7,18 +7,18 @@ description: >-
 
 # UFIN
 
-#### UFIN infomation
+## UFIN infomation
 
 | Title | Details |
 | :--- | :--- |
-| Brand | Ufin |
-| Legal Name | Unicorn Fintech |
-| Company Number | 12247933 |
-| Website | https://ufin.uk |
-| Email | Contact@ufin.uk |
-| Address | Address: 27 Old Gloucester Street, London, United Kingdom, WC1N 3AX |
+| **Brand** | Ufin |
+| **Legal Name** | Unicorn Fintech |
+| **Company Number** | 12247933 |
+| **Website** | https://ufin.uk |
+| **Email** | Contact@ufin.uk |
+| **Address** | Address: 27 Old Gloucester Street, London, United Kingdom, WC1N 3AX |
 
-**WHO IS UFIN?** 
+## **WHO IS UFIN?** 
 
 Ufin was established in October 2019 and operates mainly in 4 areas including artificial intelligence, blockchain, cloud computing and operating system \(OS\) development, with the goal of bringing maximum value to customers. customer. Ufin also aims to become a leading fintech company in the UK and around the world. 
 
