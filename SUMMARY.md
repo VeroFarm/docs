@@ -55,7 +55,7 @@
 ## 🌿NFT Farm Pool
 
 * [Token Farm](nft-farm-pool/token-farm.md)
-* [Ticket Farm](nft-farm-pool/ticket-farm.md)
+* [Ticket Farm](nft-farm-pool/ticket-farm-1.md)
 * [NFT Farm](nft-farm-pool/nft-farm.md)
 
 ## 🏦Backed
