@@ -69,3 +69,13 @@ description: 'Stake Vero Token to earn Ticket, Use ticket to exchange NFTs'
 | **Unlocked day 59th** | **1.9 block =&gt; profit = 5% \* 1** |
 |  |  |
 
+
+
+![](../.gitbook/assets/vero-farms-smart-contract-audit-passed-min-1-.png)
+
+## 🧭The Official Audit Announcement
+
+📌Congratulations Vero Farm's Smart Contract for passing Techrate's comprehensive assessment 
+
+👉Check out the Audit version here: [https://github.com/VeroFarm/Audits/blob/main/VERO FARM Full Smart Contract Security Audit.pdf](https://github.com/VeroFarm/Audits/blob/main/VERO%20FARM%20Full%20Smart%20Contract%20Security%20Audit.pdf)
+
