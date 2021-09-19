@@ -59,3 +59,14 @@ https://testnet.bscscan.com/address/0x39Bbf1903F96AF1c6EFEBf78897367fE49e9e61F#c
   </tbody>
 </table>
 
+## **3.Unlock**
+
+|  |  |
+| :--- | :--- |
+| DO NOT unlock ahead of time |  |
+| **Vero ticket** |  |
+| **Unlock after 5th** |  |
+| Unlock from 6th onwards |  |
+
+\*\*\*\*
+
