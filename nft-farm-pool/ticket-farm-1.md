@@ -15,3 +15,13 @@ https://testnet.bscscan.com/address/0x39Bbf1903F96AF1c6EFEBf78897367fE49e9e61F#c
 
 \*\*\*\*
 
+## **2.Staking Token**
+
+|  |  |
+| :--- | :--- |
+| **Min stake** | 20,000 won 1 address is staked only once |
+| **lock time** | Unlocked after 5 days |
+| **reward period** | **5 days** |
+| **Reward** |  |
+| **Stake fee** |  |
+
