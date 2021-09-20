@@ -14,3 +14,5 @@ description: >-
 
 👉Check out the Audit version here: [https://github.com/VeroFarm/Audits/blob/main/VERO FARM Full Smart Contract Security Audit.pdf](https://github.com/VeroFarm/Audits/blob/main/VERO%20FARM%20Full%20Smart%20Contract%20Security%20Audit.pdf)
 
+
+
