@@ -29,10 +29,8 @@ description: 'Stake Vero Token to earn Ticket, Use ticket to exchange NFTs'
       </td>
       <td style="text-align:left">
         <p>free</p>
-        <p>User c&#xF3; th&#x1EC3; unlock b&#x1EA5;t k&#x1EF3; l&#xFA;c n&#xE0;o
-          <br
-          />
-        </p>
+        <p>
+          <br />User can unlock at any time</p>
       </td>
     </tr>
     <tr>
