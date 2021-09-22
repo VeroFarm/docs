@@ -1,6 +1,6 @@
 # Addvisor
 
-
+![](../.gitbook/assets/team-2-2-.png)
 
 <table>
   <thead>
