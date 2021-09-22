@@ -12,6 +12,7 @@
   * [Play to Earn](introduction/features/play-to-earn.md)
   * [Hold to Earn](introduction/features/hold-to-earn.md)
 * [Transparent](introduction/transparent/README.md)
+  * [Untitled](introduction/transparent/untitled.md)
   * [Security Project🛡](introduction/transparent/security-project/README.md)
     * [Techrate Audits](introduction/transparent/security-project/audit.md)
     * [Certik Audits](introduction/transparent/security-project/certik-audits.md)
