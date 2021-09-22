@@ -4,7 +4,7 @@ description: Vero Farm Teams
 
 # Teams
 
-![Vero Farm Teams](../.gitbook/assets/team.png)
+![](../.gitbook/assets/team-1-2-.png)
 
 <table>
   <thead>

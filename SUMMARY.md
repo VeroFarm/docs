@@ -22,6 +22,7 @@
   * [Lock LP on Team.Finance](introduction/transparent/lock-lp-on-dxsales.md)
   * [Lock Vero Token](introduction/transparent/lock-vero-token.md)
   * [Test on testnet](introduction/transparent/test-on-testnet.md)
+  * [Audit](introduction/transparent/audit.md)
 * [Airdrops](introduction/airdrops/README.md)
   * [Airdrop 1st](introduction/airdrops/airdrop-1st.md)
   * [Airdrop 2nd](introduction/airdrops/airdrop-2nd.md)
@@ -63,6 +64,7 @@
 * [UFIN](backed/ufin.md)
 * [Partners](backed/partners.md)
 * [Teams](backed/teams.md)
+* [Addvisor](backed/addvisor.md)
 
 ## 🧾SOCIALS
 
