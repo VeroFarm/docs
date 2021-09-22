@@ -12,7 +12,6 @@
   * [Play to Earn](introduction/features/play-to-earn.md)
   * [Hold to Earn](introduction/features/hold-to-earn.md)
 * [Transparent](introduction/transparent/README.md)
-  * [Untitled](introduction/transparent/untitled.md)
   * [Security Project🛡](introduction/transparent/security-project/README.md)
     * [Techrate Audits](introduction/transparent/security-project/audit.md)
     * [Certik Audits](introduction/transparent/security-project/certik-audits.md)
@@ -28,6 +27,10 @@
   * [Airdrop 1st](introduction/airdrops/airdrop-1st.md)
   * [Airdrop 2nd](introduction/airdrops/airdrop-2nd.md)
 * [Hackathon](introduction/hackathon.md)
+* [Audits](introduction/audits.md)
+* [Techrate Audits](introduction/techrate-audits.md)
+* [Certik Audits](introduction/certik-audits.md)
+* [UFIN Audits](introduction/ufin-audits.md)
 
 ## 🎮 Vero Farm Game Play
 
