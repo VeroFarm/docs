@@ -14,7 +14,7 @@ description: >-
 | **Cabbage angel** | Cabbage is very playful and has the ability to spray water from its mouth, vibrate to create dew like drops of water shot at the opponent |
 |  |  |
 
-\#NOMAL
+\#NORMAL
 
 ![Plant Angel Nomal](../../.gitbook/assets/plant_nomal.png)
 
