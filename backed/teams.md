@@ -61,51 +61,6 @@ description: Vero Farm Teams
         </p>
       </td>
     </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Duca Nguyen</b>
-      </td>
-      <td style="text-align:left"><b>CPO</b>
-      </td>
-      <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p>* Nowadays, young generation around the world more and more get involve
-          into cryptocurrency and technology industry</p>
-        <p>* Co-Founder SS Ventures</p>
-        <p>* Community manager of Play To Earn VN group</p>
-        <p>* Community manager of SS CRYPTO Viet Nam group</p>
-        <p>* 3+ years of experience in product content development for blockchain
-          projects.</p>
-        <p></p>
-        <p><a href="https://www.linkedin.com/in/ducanhkorea/">https://www.linkedin.com/in/ducanhkorea/</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Robert Nguyen</b>
-        <br />
-      </td>
-      <td style="text-align:left"><b>SA</b>
-      </td>
-      <td style="text-align:left">
-        <p>* Platform Director of DTS Group (Digital Transformation for SME)</p>
-        <p>* General Cordinator of BAS (Blockchain Alliance for Sustainability)</p>
-        <p>* 10+ years of experience in Healthcare Platform Development</p>
-        <p>* 5+ years of experience in Strategic Advisor for Startup.</p>
-        <p></p>
-        <p><a href="https://www.linkedin.com/in/linknguyen/">https://www.linkedin.com/in/linknguyen/</a>
-        </p>
-      </td>
-    </tr>
   </tbody>
 </table>
 
