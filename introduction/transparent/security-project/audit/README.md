@@ -6,7 +6,7 @@ description: >-
 
 # Techrate Audits
 
-![](../../../.gitbook/assets/vero-farms-smart-contract-audit-passed-min-1-.png)
+![](../../../../.gitbook/assets/vero-farms-smart-contract-audit-passed-min-1-.png)
 
 🔔**The Official Audit Announcement**
 
