@@ -27,10 +27,10 @@
   * [Airdrop 1st](introduction/airdrops/airdrop-1st.md)
   * [Airdrop 2nd](introduction/airdrops/airdrop-2nd.md)
 * [Hackathon](introduction/hackathon.md)
-* [Audits](introduction/audits.md)
-* [Techrate Audits](introduction/techrate-audits.md)
-* [Certik Audits](introduction/certik-audits.md)
-* [UFIN Audits](introduction/ufin-audits.md)
+* [Audits](introduction/audits/README.md)
+  * [Techrate Audits](introduction/audits/techrate-audits.md)
+  * [Certik Audits](introduction/audits/certik-audits.md)
+  * [UFIN Audits](introduction/audits/ufin-audits.md)
 
 ## 🎮 Vero Farm Game Play
 
