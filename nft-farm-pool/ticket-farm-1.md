@@ -4,14 +4,68 @@
 
 ## **1.General information**
 
-| **Info** | **Testnet** | **Mainnet** |
-| :--- | :--- | :--- |
-| **Token** | [https://testnet.bscscan.com/token/ 0xc8b9fc9c42b37ebf27bf2dfb00dab12bef486854](https://testnet.bscscan.com/token/0xc8b9fc9c42b37ebf27bf2dfb00dab12bef486854) | 0x0ef008ff963572d3dabc12e222420f537ddabf94 |
-| **Staking smc** | [https://testnet.bscscan.com/address /0xeEab3a0A00bB708fFc9C7A3600ec31C33826fdfb](https://testnet.bscscan.com/address/0xeEab3a0A00bB708fFc9C7A3600ec31C33826fdfb) | [https://bscscan.com/address/ 0x50F5ff0a56b79dEB71957Fb3D02EB008a1A09d63](https://bscscan.com/address/0x50F5ff0a56b79dEB71957Fb3D02EB008a1A09d63) |
-| **Sale Wallet** | 0x8E8FCc1680a6A642521a5F9BE37eC2f26940E38A | 0x8E8FCc1680a6A642521a5F9BE37eC2f26940E38A |
-| **Vero Ticket Token** | [ https://testnet.bscscan.com/address/ 0x39Bbf1903F96AF1c6EFEBf78897367fE49e9e61F\#contracts ](
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Info</b>
+      </th>
+      <th style="text-align:left"><b>Testnet</b>
+      </th>
+      <th style="text-align:left"><b>Mainnet</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Token</b>
+      </td>
+      <td style="text-align:left"><a href="https://testnet.bscscan.com/token/0xc8b9fc9c42b37ebf27bf2dfb00dab12bef486854"><br />0xc8b9fc9c42b37ebf27bf2dfb00dab12bef486854</a>
+      </td>
+      <td style="text-align:left">0x0ef008ff963572d3dabc12e222420f537ddabf94</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Staking smc</b>
+      </td>
+      <td style="text-align:left"><a href="https://testnet.bscscan.com/address/0xeEab3a0A00bB708fFc9C7A3600ec31C33826fdfb"><br />0xeEab3a0A00bB708fFc9C7A3600ec31C33826fdfb</a>
+      </td>
+      <td style="text-align:left"><a href="https://bscscan.com/address/0x50F5ff0a56b79dEB71957Fb3D02EB008a1A09d63"><br />0x50F5ff0a56b79dEB71957Fb3D02EB008a1A09d63</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sale Wallet</b>
+      </td>
+      <td style="text-align:left">0x8E8FCc1680a6A642521a5F9BE37eC2f26940E38A</td>
+      <td style="text-align:left">0x8E8FCc1680a6A642521a5F9BE37eC2f26940E38A</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Vero Ticket Token 1</b>
+      </td>
+      <td style="text-align:left">
+        <p><a href="
+
 https://testnet.bscscan.com/address/0x39Bbf1903F96AF1c6EFEBf78897367fE49e9e61F#contracts
-) | [https://bscscan.com/address/ 0x3D75314b9C68B446826Df85d79a98c182636C021](https://bscscan.com/address/0x3D75314b9C68B446826Df85d79a98c182636C021) |
+
+"><br /><br />0x39Bbf1903F96AF1c6EFEBf78897367fE49e9e61F</a>
+        </p>
+        <p><a href="
+
+https://testnet.bscscan.com/address/0x39Bbf1903F96AF1c6EFEBf78897367fE49e9e61F#contracts
+
+"><br /></a>
+        </p>
+      </td>
+      <td style="text-align:left"><a href="https://bscscan.com/address/0x3D75314b9C68B446826Df85d79a98c182636C021"><br />0x3D75314b9C68B446826Df85d79a98c182636C021</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Vero Ticket Token 2</b>
+      </td>
+      <td style="text-align:left"><a href="https://bscscan.com/token/0xa3b1153e121e632353d43767037e6e22410e68e8">0xa3b1153e121e632353d43767037e6e22410e68e8</a>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
 \*\*\*\*
 
