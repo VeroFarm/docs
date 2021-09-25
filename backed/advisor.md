@@ -6,15 +6,12 @@
   <thead>
     <tr>
       <th style="text-align:left">Name</th>
-      <th style="text-align:left">Position</th>
       <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>Justin Nguyen</b>
-      </td>
-      <td style="text-align:left"><b>CM</b>
       </td>
       <td style="text-align:left">
         <p>* Personal trainer and partner connecting at gigatum technology application
@@ -30,8 +27,6 @@
     <tr>
       <td style="text-align:left"><b>Yunmei Ying</b>
       </td>
-      <td style="text-align:left"><b>COO</b>
-      </td>
       <td style="text-align:left">
         <p>* 6+ years of experience in fund raising for blockchain startup projects.
           <br
@@ -46,8 +41,6 @@
     </tr>
     <tr>
       <td style="text-align:left"><b>Duca Nguyen</b>
-      </td>
-      <td style="text-align:left"><b>CPO</b>
       </td>
       <td style="text-align:left">
         <p>&lt;b&gt;&lt;/b&gt;</p>
