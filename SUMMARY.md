@@ -42,6 +42,7 @@
   * [PVP Batle](vero-farm-game-play/battling/p2p-batle.md)
 * [Training](vero-farm-game-play/training.md)
 * [NFT Marketplaces](vero-farm-game-play/nftmarketplaces.md)
+* [Shop](vero-farm-game-play/shop.md)
 * [Lands](vero-farm-game-play/lands.md)
 
 ## 🧩 Tokenomics
