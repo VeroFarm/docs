@@ -1,4 +1,4 @@
-# Advisor
+# Advisors
 
 ![](../.gitbook/assets/team-2-2-.png)
 
