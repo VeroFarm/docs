@@ -5,9 +5,9 @@
 ## 🎗 Introduction
 
 * [Vision](introduction/vision.md)
-* [Products](introduction/products.md)
 * [Roadmap](introduction/roadmap.md)
 * [Features](introduction/features/README.md)
+  * [Products](introduction/features/products.md)
   * [Free to Play](introduction/features/free-to-play.md)
   * [Play to Earn](introduction/features/play-to-earn.md)
   * [Hold to Earn](introduction/features/hold-to-earn.md)
