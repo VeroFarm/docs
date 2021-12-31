@@ -10,6 +10,4 @@ Ufin recognized the potential development and long-term value of NFT technology 
 
 
 
-  
-
-
+\
