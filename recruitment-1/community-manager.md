@@ -3,7 +3,7 @@
 ![](../.gitbook/assets/recruitment-banner.png)
 
 \
-&#x20;​![🌈](https://web.telegram.org/k/assets/img/emoji/1f308.png)\[RECRUITMENT] COMMUNITY MANAGER Vero Farm project offers Community Manager(CM) Jobs in some areas. You can contribute to the journey to conquer the local cryptocurrency market and our global‌
+&#x20;​<img src="https://web.telegram.org/k/assets/img/emoji/1f308.png" alt="🌈" data-size="line">\[RECRUITMENT] COMMUNITY MANAGER Vero Farm project offers Community Manager(CM) Jobs in some areas. You can contribute to the journey to conquer the local cryptocurrency market and our global‌
 
 &#x20;**REQUEST**: - Be a native living in the following countries: Philippines,China,India - Fluent in writing and speaking in Filipino,Chinese,Indian(English is required) - Have knowledge and understanding of cryptocurrencies, blockchain - Cheerful and responsible working spirit‌
 
@@ -13,8 +13,8 @@
 
 **CONTACT:**‌
 
-​​![👉](https://web.telegram.org/k/assets/img/emoji/1f449.png)Telegram [https://t.me/DrsoftApp](https://t.me/DrsoftApp)​‌
+​​<img src="https://web.telegram.org/k/assets/img/emoji/1f449.png" alt="👉" data-size="line">Telegram [https://t.me/DrsoftApp](https://t.me/DrsoftApp)​‌
 
-&#x20;​![👉](https://web.telegram.org/k/assets/img/emoji/1f449.png)Telegram Group: [https://t.me/VeroFarmGroup](https://t.me/VeroFarmGroup)​‌
+&#x20;​<img src="https://web.telegram.org/k/assets/img/emoji/1f449.png" alt="👉" data-size="line">Telegram Group: [https://t.me/VeroFarmGroup](https://t.me/VeroFarmGroup)​‌
 
 &#x20;[#VeroFarm](tg://search\_hashtag?hashtag=VeroFarm) [#UfinUk](tg://search\_hashtag?hashtag=UfinUk) [#gamefi](tg://search\_hashtag?hashtag=gamefi) [#nft](tg://search\_hashtag?hashtag=nft)

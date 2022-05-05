@@ -23,10 +23,10 @@ This contest is an opportunity to help us choose those who are really interested
 
 ![](../../.gitbook/assets/68e3cd0d-067a-4e8b-8054-bd9e231287d8.jpg)
 
-&#x20;![💥](https://web.telegram.org/z/img-apple-64/1f4a5.png)**ARE YOU ON THE WHITELIST?**\
+&#x20;<img src="https://web.telegram.org/z/img-apple-64/1f4a5.png" alt="💥" data-size="line">**ARE YOU ON THE WHITELIST?**\
 \
 Dear community,\
 Thank you so much for your participation and the insane amount of support you gave to our _IDO Whitelist contest._\
-__![🎉](https://web.telegram.org/z/img-apple-64/1f389.png) Here is the list of the winners:\
+__<img src="https://web.telegram.org/z/img-apple-64/1f389.png" alt="🎉" data-size="line"> Here is the list of the winners:\
 [shorturl.at/nFIQY](https://shorturl.at/nFIQY)\
 Congratulation! We will see all of you soon in our IDO event!\
